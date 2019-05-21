@@ -129,9 +129,9 @@ The final output of training:
 - **week12** 
     - modeify the word embedding
 - **week13** 
-    -
+    - 
 - **week14** 
-    -
+    - 
 - **week15** 
     - presentation
 
