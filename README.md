@@ -21,18 +21,20 @@ We introduce the NER for unit name and degree inforamtion.
 
 ## feature
 
-### the first step is to preprocess the input text,
+### the first step is to preprocess the input text
+
 it is important to choose the necessary steps and make sure the result is useful for the
 intent classification and slot filler part. For Cassandra project, The purpose of
 preprocessing the text is to omit the length of the sentence, leaving the more
 important part of the sentence to omit the less useful part of the sentence.
+
 First, we need to convert all letters to lower case. In this step, we first unify the
 text format so that we can follow the string matching and database operations.
 E.g
--
+`
 The user's input is "Hi, I want to know the lecturer address of COMP5426."
 The output of this step is "hi, i want to know the lecturer address of comp5426."
--
+`
 
 
 
