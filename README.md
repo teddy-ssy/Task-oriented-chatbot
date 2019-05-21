@@ -13,17 +13,16 @@ We introduce the NER for unit name and degree inforamtion.
 ## Dependency Packages for Chatbox
 |package|version|
 |:---:|:---:|
-|gensim||
-|json||
-|sklearn||
-|numpy||
-|tensorflow||
-|spacy||
-|pathlib||
-|NLTK||
-|csv||
+|gensim|3.4.0|
+|sickit-learn|0.20.1|
+|numpy|1.15.4|
+|tensorflow|1.13.1|
+|spacy|2.0.16|
+|NLTK|3.4.1|
 
 ## Architecture
+<img src="https://github.com/teddy-ssy/Task-oriented-chatbot/blob/master/reademe/architicture.png">
+<img src="https://github.com/teddy-ssy/Task-oriented-chatbot/blob/master/reademe/architicture2.png">
 
 ## feature
 
@@ -108,6 +107,48 @@ The final output of training:
 ### NER
 
 ## Roadmap
+|week|task|
+|:---:|:---:|
+- [x] **预览版**  2018-12-02
+    - ~~安装文档、前后端代码、Data Migration~~
+- [x] **Alpha** 2018-12-09
+    - ~~使用文档、Trouble Shooting、公众号更新~~
+- [x] **Beta** 2018-12-23 :santa:圣诞夜前夕
+    - ~~钉钉/邮件消息通知~~
+    - ~~接受官网logo企业的`Trouble Shooting`~~
+- [x] **2.0.0**  2018-12-30 :one:元旦前夕
+    - ~~项目检测、复制~~
+    - ~~任务的回滚~~
+    - ~~`released tag`、使用文档~~
+    - ~~`Docker` 镜像~~
+    - ~~Java配置模板~~
+    - ~~PHP配置模板~~
+    - ~~`github` 5000 `star`~~
+- [x] **2.0.1**  2019-01-13
+    - ~~项目配置添加自定义变量~~
+    - ~~Python 3.7+兼容~~
+- **2.1.0**  2019-03-22
+    - 超管权限完善
+    - `Dashboard` 1.0（全新的玩法，欢迎提issue）
+    - ~~3月24日开源中国苏州源创会-[开源综合技术主题](https://www.oschina.net/event/2303765)《开源构建多空间可视化一键部署Devops平台》~~
+- **2.2.0**  2019-04-22
+    - webhook (gitlab)
+    - 上线时间记录、命令与结果拆分、实时console
+    - 宿主机资源监控
+- **2.3.0**  2019-05-27
+    - 插件化：maven、npm
+    - pipeline式
+- **2.4.0**  2019-06-17
+    - i18n 国际化
+- **2.5.0**  2019-07-29
+    - 上线单Diff
+    - 消息通知定制化：钉钉、邮件、企业微信
+- **2.6.0**  2019-08-19
+    - 批量管理服务器
+    - 跨空间复制项目
+    - App打包平台
+    - `Dashboard` 2.0
+- 更多需求收集中
 
 ## Discussion
 
