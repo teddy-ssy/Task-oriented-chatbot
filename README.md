@@ -138,4 +138,5 @@ The final output of training:
 
 
 ## Discussion
+- [submit issue](https://github.com/teddy-ssy/Task-oriented-chatbot/issues/new)
 
