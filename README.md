@@ -30,7 +30,7 @@ text format so that we can follow the string matching and database operations.
 E.g  
 The user's input is `"Hi, I want to know the lecturer address of COMP5426."`  
 The output of this step is `"hi, i want to know the lecturer address of comp5426."`
-
+<img src="https://github.com/teddy-ssy/Task-oriented-chatbot/blob/master/reademe/preprocessing%201.png">
 
 
 ## Architecture
