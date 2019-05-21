@@ -109,23 +109,23 @@ The final output of training:
 ## Roadmap
 
 - [x] **week3** 
-    - ~~practice seq2seq model 
+    - ~~practice seq2seq model ~~
 - [x] **week4** 
-    - ~~practice n-gram modle
+    - ~~practice n-gram modle~~
 - [x] **week5** 
-    - ~~practice the slot filling 
+    - ~~practice the slot filling ~~
 - [x] **week6** 
-    - ~~high level of project demo
+    - ~~high level of project demo~~
 - [x] **week7** 
-    - ~~combine the intent classification and word embedding
+    - ~~combine the intent classification and word embedding~~
 - [x] **week8** 
-    - ~~data preprocessing
+    - ~~data preprocessing~~
 - [x] **week9** 
-    - ~~modeify the intent classifcation and slot filling 
+    - ~~modeify the intent classifcation and slot filling ~~
 - [x] **week10** 
-    - ~~string matching
+    - ~~string matching~~
 - [x] **week11** 
-    - ~~NER 
+    - ~~NER ~~
 - **week12** 
     - modeify the word embedding
 - **week13** 
