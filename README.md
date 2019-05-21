@@ -14,7 +14,9 @@ We introduce the NER for unit name and degree inforamtion.
 |package|version|
 |:---:|:---:|
 |||
-|||
+
+
+## Architecture
 
 ## feature
 
@@ -47,12 +49,27 @@ To ensure the stop words set can conclude all stop word, It is necessary to sele
 
 <img src="https://github.com/teddy-ssy/Task-oriented-chatbot/blob/master/reademe/preprocessing3.png">
 
+### Word Embedding
+
+we decided to use an open source word vector library. For the specific course name, the teacher name data is solved by the stream matching method.
+<img src="https://github.com/teddy-ssy/Task-oriented-chatbot/blob/master/reademe/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202019-05-21%20%E4%B8%8B%E5%8D%8810.00.12.png">
+
 ### intent classification
 
+Understanding user intent is the first step in the next steps. From the user's intent, we then choose which logic to use to get the desired result based on the logical logic of the backend. Based on the intent category and the raw question training set designed above. We decided to implement this model using the seq2seq method, the model is divided into two parts: encoder and decoder.
+In encoder part, after review few method ,the Bi-LSTM structure is the most popular one structure used for encoder. At the beginning, it is need define two LSTM cell for forward and backward. We keep the output prob equal to 0.5, This is an effective regularization method that can effectively prevent overfitting.
+<img src="https://github.com/teddy-ssy/Task-oriented-chatbot/blob/master/reademe/intent1.png">
+Then we use the bidirectional_dynamic_rnn to train the input data to the finial
+hidden layer state and the output of the structure.
+<img src="https://github.com/teddy-ssy/Task-oriented-chatbot/blob/master/reademe/intent2.png">
+The decoder part for intent classification is more simpler compared with the slot
+filler. The output only one value, then it can be return by a argmax layer. The input of
+the this layer is the final hidden layer state.
+<img src="https://github.com/teddy-ssy/Task-oriented-chatbot/blob/master/reademe/intent3.png">
 
-## Architecture
 
-## Preview
+
+
 
 ## Roadmap
 
