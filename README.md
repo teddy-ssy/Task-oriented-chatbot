@@ -13,8 +13,15 @@ We introduce the NER for unit name and degree inforamtion.
 ## Dependency Packages for Chatbox
 |package|version|
 |:---:|:---:|
-|||
-
+|gensim||
+|json||
+|sklearn||
+|numpy||
+|tensorflow||
+|spacy||
+|pathlib||
+|NLTK||
+|csv||
 
 ## Architecture
 
@@ -67,9 +74,38 @@ filler. The output only one value, then it can be return by a argmax layer. The 
 the this layer is the final hidden layer state.
 <img src="https://github.com/teddy-ssy/Task-oriented-chatbot/blob/master/reademe/intent3.png">
 
+### slot filling 
 
+Same as the intent classification decoder, the input is the state of the last
+hidden layer of encoder, the structure of the decoder divide to the training mode and
+prediction mode, at first we will define the decoder helper, The helper is actually
+how the decoding stage can get the input at the next moment according to the
+prediction result. For example, the actual value of the previous moment should be
+directly used as the next moment input during the training process. The greedy
+method can be used to select the value with the highest probability as the prediction
+process. The next moment and so on. So helper can be roughly divided into training
+helper and predictive helper.
+In the training phase, using the combination of Training Helper + Basic
+Decoder, this is generally fixed, of course, you can also define the Helper class
+yourself. The prediction phase calls Greedy Embedding Helper + Basic Decoder
+combination for greedy decoding.
+<img src="https://github.com/teddy-ssy/Task-oriented-chatbot/blob/master/reademe/slot1.png">
+Currently, Attention mode plus LSTM is one of the effect structure for decoder,
+to implement this structure first we need define the Attention machine
+<img src="https://github.com/teddy-ssy/Task-oriented-chatbot/blob/master/reademe/slot2.png">
+And Define the decoder stage to use the LSTMCell and then encapsulate the
+attention wrapper
+<img src="https://github.com/teddy-ssy/Task-oriented-chatbot/blob/master/reademe/slot3.png">
+Final apply the dynamic decoder by Tensorflow to produce the output. Call
+dynamic_decode for decoding, decoder_outputs is a namedtuple which contains two
+items (rnn_outputs, sample_id)
+Rnn_output: `[batch_size, decoder_targets_length, vocab_size]`
+Sample_id: `[batch_size, decoder_targets_length], tf.int32`
+<img src="https://github.com/teddy-ssy/Task-oriented-chatbot/blob/master/reademe/slot4.png">
+The final output of training:
+<img src="https://github.com/teddy-ssy/Task-oriented-chatbot/blob/master/reademe/slot5.png">
 
-
+### NER
 
 ## Roadmap
 
