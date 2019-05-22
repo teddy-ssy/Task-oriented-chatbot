@@ -106,6 +106,10 @@ The final output of training:
 
 ### NER
 
+### Rule Base
+
+### speech recognization
+
 ## Roadmap
 
 - [x] **week3** 
