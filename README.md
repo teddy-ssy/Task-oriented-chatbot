@@ -128,6 +128,8 @@ The final output of training:
     - ~~NER~~
 - **week12** 
     - modeify the word embedding
+    - ~~Basic Rule base with PyKnow~~
+    - ~~add speech recognization with speechrecognization~~
 - **week13** 
     - test
 - **week14** 
