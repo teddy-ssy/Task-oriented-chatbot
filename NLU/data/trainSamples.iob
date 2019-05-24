@@ -1,0 +1,819 @@
+BOS show me the course code of Introduction to Programming EOS	O O O O B-courseCode I-courseCode O B-coursename I-coursename I-coursename units
+BOS show me the course name of Introduction to Programming EOS	O O O O B-courseName I-courseName O B-coursename I-coursename I-coursename units
+BOS show me the level of Introduction to Programming EOS	O O O O B-level O B-coursename I-coursename I-coursename units
+BOS show me the faculty of Introduction to Programming EOS	O O O O B-faculty O B-coursename I-coursename I-coursename units
+BOS show me the tutors of Introduction to Programming EOS	O O O O B-tutors O B-coursename I-coursename I-coursename units
+BOS show me the session of Introduction to Programming EOS	O O O O B-session O B-coursename I-coursename I-coursename units
+BOS show me the campus of Introduction to Programming EOS	O O O O B-campus O B-coursename I-coursename I-coursename units
+BOS show me the prerequisites of Introduction to Programming EOS	O O O O B-prerequisites O B-coursename I-coursename I-coursename units
+BOS show me the prohibitions of Introduction to Programming EOS	O O O O B-prohibitions O B-coursename I-coursename I-coursename units
+BOS show me the description of Introduction to Programming EOS	O O O O B-description O B-coursename I-coursename I-coursename units
+BOS show me the course code of Computing 1A Professionalism EOS	O O O O B-courseCode I-courseCode O B-coursename I-coursename I-coursename units
+BOS show me the course name of Computing 1A Professionalism EOS	O O O O B-courseName I-courseName O B-coursename I-coursename I-coursename units
+BOS show me the level of Computing 1A Professionalism EOS	O O O O B-level O B-coursename I-coursename I-coursename units
+BOS show me the faculty of Computing 1A Professionalism EOS	O O O O B-faculty O B-coursename I-coursename I-coursename units
+BOS show me the tutors of Computing 1A Professionalism EOS	O O O O B-tutors O B-coursename I-coursename I-coursename units
+BOS show me the session of Computing 1A Professionalism EOS	O O O O B-session O B-coursename I-coursename I-coursename units
+BOS show me the campus of Computing 1A Professionalism EOS	O O O O B-campus O B-coursename I-coursename I-coursename units
+BOS show me the prerequisites of Computing 1A Professionalism EOS	O O O O B-prerequisites O B-coursename I-coursename I-coursename units
+BOS show me the prohibitions of Computing 1A Professionalism EOS	O O O O B-prohibitions O B-coursename I-coursename I-coursename units
+BOS show me the description of Computing 1A Professionalism EOS	O O O O B-description O B-coursename I-coursename I-coursename units
+BOS show me the course code of Computing 1B OS & Network Platforms EOS	O O O O B-courseCode I-courseCode O B-coursename I-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS show me the course name of Computing 1B OS & Network Platforms EOS	O O O O B-courseName I-courseName O B-coursename I-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS show me the level of Computing 1B OS & Network Platforms EOS	O O O O B-level O B-coursename I-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS show me the faculty of Computing 1B OS & Network Platforms EOS	O O O O B-faculty O B-coursename I-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS show me the tutors of Computing 1B OS & Network Platforms EOS	O O O O B-tutors O B-coursename I-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS show me the session of Computing 1B OS & Network Platforms EOS	O O O O B-session O B-coursename I-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS show me the campus of Computing 1B OS & Network Platforms EOS	O O O O B-campus O B-coursename I-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS show me the prerequisites of Computing 1B OS & Network Platforms EOS	O O O O B-prerequisites O B-coursename I-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS show me the prohibitions of Computing 1B OS & Network Platforms EOS	O O O O B-prohibitions O B-coursename I-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS show me the description of Computing 1B OS & Network Platforms EOS	O O O O B-description O B-coursename I-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS show me the course code of Introduction to Computer Systems  EOS	O O O O B-courseCode I-courseCode O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS show me the course name of Introduction to Computer Systems  EOS	O O O O B-courseName I-courseName O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS show me the level of Introduction to Computer Systems  EOS	O O O O B-level O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS show me the faculty of Introduction to Computer Systems  EOS	O O O O B-faculty O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS show me the tutors of Introduction to Computer Systems  EOS	O O O O B-tutors O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS show me the session of Introduction to Computer Systems  EOS	O O O O B-session O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS show me the campus of Introduction to Computer Systems  EOS	O O O O B-campus O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS show me the prerequisites of Introduction to Computer Systems  EOS	O O O O B-prerequisites O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS show me the prohibitions of Introduction to Computer Systems  EOS	O O O O B-prohibitions O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS show me the description of Introduction to Computer Systems  EOS	O O O O B-description O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS show me the course code of Object-Oriented Programming EOS	O O O O B-courseCode I-courseCode O B-coursename I-coursename units
+BOS show me the course name of Object-Oriented Programming EOS	O O O O B-courseName I-courseName O B-coursename I-coursename units
+BOS show me the level of Object-Oriented Programming EOS	O O O O B-level O B-coursename I-coursename units
+BOS show me the faculty of Object-Oriented Programming EOS	O O O O B-faculty O B-coursename I-coursename units
+BOS show me the tutors of Object-Oriented Programming EOS	O O O O B-tutors O B-coursename I-coursename units
+BOS show me the session of Object-Oriented Programming EOS	O O O O B-session O B-coursename I-coursename units
+BOS show me the campus of Object-Oriented Programming EOS	O O O O B-campus O B-coursename I-coursename units
+BOS show me the prerequisites of Object-Oriented Programming EOS	O O O O B-prerequisites O B-coursename I-coursename units
+BOS show me the prohibitions of Object-Oriented Programming EOS	O O O O B-prohibitions O B-coursename I-coursename units
+BOS show me the description of Object-Oriented Programming EOS	O O O O B-description O B-coursename I-coursename units
+BOS show me the course code of Systems Programming EOS	O O O O B-courseCode I-courseCode O B-coursename I-coursename units
+BOS show me the course name of Systems Programming EOS	O O O O B-courseName I-courseName O B-coursename I-coursename units
+BOS show me the level of Systems Programming EOS	O O O O B-level O B-coursename I-coursename units
+BOS show me the faculty of Systems Programming EOS	O O O O B-faculty O B-coursename I-coursename units
+BOS show me the tutors of Systems Programming EOS	O O O O B-tutors O B-coursename I-coursename units
+BOS show me the session of Systems Programming EOS	O O O O B-session O B-coursename I-coursename units
+BOS show me the campus of Systems Programming EOS	O O O O B-campus O B-coursename I-coursename units
+BOS show me the prerequisites of Systems Programming EOS	O O O O B-prerequisites O B-coursename I-coursename units
+BOS show me the prohibitions of Systems Programming EOS	O O O O B-prohibitions O B-coursename I-coursename units
+BOS show me the description of Systems Programming EOS	O O O O B-description O B-coursename I-coursename units
+BOS show me the course code of Programming Languages, Logic and Models EOS	O O O O B-courseCode I-courseCode O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS show me the course name of Programming Languages, Logic and Models EOS	O O O O B-courseName I-courseName O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS show me the level of Programming Languages, Logic and Models EOS	O O O O B-level O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS show me the faculty of Programming Languages, Logic and Models EOS	O O O O B-faculty O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS show me the tutors of Programming Languages, Logic and Models EOS	O O O O B-tutors O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS show me the session of Programming Languages, Logic and Models EOS	O O O O B-session O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS show me the campus of Programming Languages, Logic and Models EOS	O O O O B-campus O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS show me the prerequisites of Programming Languages, Logic and Models EOS	O O O O B-prerequisites O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS show me the prohibitions of Programming Languages, Logic and Models EOS	O O O O B-prohibitions O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS show me the description of Programming Languages, Logic and Models EOS	O O O O B-description O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS show me the course code of Programming Languages, Logic and Models (Adv) EOS	O O O O B-courseCode I-courseCode O B-coursename I-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS show me the course name of Programming Languages, Logic and Models (Adv) EOS	O O O O B-courseName I-courseName O B-coursename I-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS show me the level of Programming Languages, Logic and Models (Adv) EOS	O O O O B-level O B-coursename I-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS show me the faculty of Programming Languages, Logic and Models (Adv) EOS	O O O O B-faculty O B-coursename I-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS show me the tutors of Programming Languages, Logic and Models (Adv) EOS	O O O O B-tutors O B-coursename I-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS show me the session of Programming Languages, Logic and Models (Adv) EOS	O O O O B-session O B-coursename I-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS show me the campus of Programming Languages, Logic and Models (Adv) EOS	O O O O B-campus O B-coursename I-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS show me the prerequisites of Programming Languages, Logic and Models (Adv) EOS	O O O O B-prerequisites O B-coursename I-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS show me the prohibitions of Programming Languages, Logic and Models (Adv) EOS	O O O O B-prohibitions O B-coursename I-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS show me the description of Programming Languages, Logic and Models (Adv) EOS	O O O O B-description O B-coursename I-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS show me the course code of Algorithm Design EOS	O O O O B-courseCode I-courseCode O B-coursename I-coursename units
+BOS show me the course name of Algorithm Design EOS	O O O O B-courseName I-courseName O B-coursename I-coursename units
+BOS show me the level of Algorithm Design EOS	O O O O B-level O B-coursename I-coursename units
+BOS show me the faculty of Algorithm Design EOS	O O O O B-faculty O B-coursename I-coursename units
+BOS show me the tutors of Algorithm Design EOS	O O O O B-tutors O B-coursename I-coursename units
+BOS show me the session of Algorithm Design EOS	O O O O B-session O B-coursename I-coursename units
+BOS show me the campus of Algorithm Design EOS	O O O O B-campus O B-coursename I-coursename units
+BOS show me the prerequisites of Algorithm Design EOS	O O O O B-prerequisites O B-coursename I-coursename units
+BOS show me the prohibitions of Algorithm Design EOS	O O O O B-prohibitions O B-coursename I-coursename units
+BOS show me the description of Algorithm Design EOS	O O O O B-description O B-coursename I-coursename units
+BOS show me the course code of Programming Languages and Paradigms EOS	O O O O B-courseCode I-courseCode O B-coursename I-coursename I-coursename I-coursename units
+BOS show me the course name of Programming Languages and Paradigms EOS	O O O O B-courseName I-courseName O B-coursename I-coursename I-coursename I-coursename units
+BOS show me the level of Programming Languages and Paradigms EOS	O O O O B-level O B-coursename I-coursename I-coursename I-coursename units
+BOS show me the faculty of Programming Languages and Paradigms EOS	O O O O B-faculty O B-coursename I-coursename I-coursename I-coursename units
+BOS show me the tutors of Programming Languages and Paradigms EOS	O O O O B-tutors O B-coursename I-coursename I-coursename I-coursename units
+BOS show me the session of Programming Languages and Paradigms EOS	O O O O B-session O B-coursename I-coursename I-coursename I-coursename units
+BOS show me the campus of Programming Languages and Paradigms EOS	O O O O B-campus O B-coursename I-coursename I-coursename I-coursename units
+BOS show me the prerequisites of Programming Languages and Paradigms EOS	O O O O B-prerequisites O B-coursename I-coursename I-coursename I-coursename units
+BOS show me the prohibitions of Programming Languages and Paradigms EOS	O O O O B-prohibitions O B-coursename I-coursename I-coursename I-coursename units
+BOS show me the description of Programming Languages and Paradigms EOS	O O O O B-description O B-coursename I-coursename I-coursename I-coursename units
+BOS show me the course code of Distributed Systems EOS	O O O O B-courseCode I-courseCode O B-coursename I-coursename units
+BOS show me the course name of Distributed Systems EOS	O O O O B-courseName I-courseName O B-coursename I-coursename units
+BOS show me the level of Distributed Systems EOS	O O O O B-level O B-coursename I-coursename units
+BOS show me the faculty of Distributed Systems EOS	O O O O B-faculty O B-coursename I-coursename units
+BOS show me the tutors of Distributed Systems EOS	O O O O B-tutors O B-coursename I-coursename units
+BOS show me the session of Distributed Systems EOS	O O O O B-session O B-coursename I-coursename units
+BOS show me the campus of Distributed Systems EOS	O O O O B-campus O B-coursename I-coursename units
+BOS show me the prerequisites of Distributed Systems EOS	O O O O B-prerequisites O B-coursename I-coursename units
+BOS show me the prohibitions of Distributed Systems EOS	O O O O B-prohibitions O B-coursename I-coursename units
+BOS show me the description of Distributed Systems EOS	O O O O B-description O B-coursename I-coursename units
+BOS show me the course code of Introduction to Artificial Intelligence EOS	O O O O B-courseCode I-courseCode O B-coursename I-coursename I-coursename I-coursename units
+BOS show me the course name of Introduction to Artificial Intelligence EOS	O O O O B-courseName I-courseName O B-coursename I-coursename I-coursename I-coursename units
+BOS show me the level of Introduction to Artificial Intelligence EOS	O O O O B-level O B-coursename I-coursename I-coursename I-coursename units
+BOS show me the faculty of Introduction to Artificial Intelligence EOS	O O O O B-faculty O B-coursename I-coursename I-coursename I-coursename units
+BOS show me the tutors of Introduction to Artificial Intelligence EOS	O O O O B-tutors O B-coursename I-coursename I-coursename I-coursename units
+BOS show me the session of Introduction to Artificial Intelligence EOS	O O O O B-session O B-coursename I-coursename I-coursename I-coursename units
+BOS show me the campus of Introduction to Artificial Intelligence EOS	O O O O B-campus O B-coursename I-coursename I-coursename I-coursename units
+BOS show me the prerequisites of Introduction to Artificial Intelligence EOS	O O O O B-prerequisites O B-coursename I-coursename I-coursename I-coursename units
+BOS show me the prohibitions of Introduction to Artificial Intelligence EOS	O O O O B-prohibitions O B-coursename I-coursename I-coursename I-coursename units
+BOS show me the description of Introduction to Artificial Intelligence EOS	O O O O B-description O B-coursename I-coursename I-coursename I-coursename units
+BOS show me the course code of Graphics and Multimedia EOS	O O O O B-courseCode I-courseCode O B-coursename I-coursename I-coursename units
+BOS show me the course name of Graphics and Multimedia EOS	O O O O B-courseName I-courseName O B-coursename I-coursename I-coursename units
+BOS show me the level of Graphics and Multimedia EOS	O O O O B-level O B-coursename I-coursename I-coursename units
+BOS show me the faculty of Graphics and Multimedia EOS	O O O O B-faculty O B-coursename I-coursename I-coursename units
+BOS show me the tutors of Graphics and Multimedia EOS	O O O O B-tutors O B-coursename I-coursename I-coursename units
+BOS show me the session of Graphics and Multimedia EOS	O O O O B-session O B-coursename I-coursename I-coursename units
+BOS show me the campus of Graphics and Multimedia EOS	O O O O B-campus O B-coursename I-coursename I-coursename units
+BOS show me the prerequisites of Graphics and Multimedia EOS	O O O O B-prerequisites O B-coursename I-coursename I-coursename units
+BOS show me the prohibitions of Graphics and Multimedia EOS	O O O O B-prohibitions O B-coursename I-coursename I-coursename units
+BOS show me the description of Graphics and Multimedia EOS	O O O O B-description O B-coursename I-coursename I-coursename units
+BOS show me the course code of Operating Systems Internals EOS	O O O O B-courseCode I-courseCode O B-coursename I-coursename I-coursename units
+BOS show me the course name of Operating Systems Internals EOS	O O O O B-courseName I-courseName O B-coursename I-coursename I-coursename units
+BOS show me the level of Operating Systems Internals EOS	O O O O B-level O B-coursename I-coursename I-coursename units
+BOS show me the faculty of Operating Systems Internals EOS	O O O O B-faculty O B-coursename I-coursename I-coursename units
+BOS show me the tutors of Operating Systems Internals EOS	O O O O B-tutors O B-coursename I-coursename I-coursename units
+BOS show me the session of Operating Systems Internals EOS	O O O O B-session O B-coursename I-coursename I-coursename units
+BOS show me the campus of Operating Systems Internals EOS	O O O O B-campus O B-coursename I-coursename I-coursename units
+BOS show me the prerequisites of Operating Systems Internals EOS	O O O O B-prerequisites O B-coursename I-coursename I-coursename units
+BOS show me the prohibitions of Operating Systems Internals EOS	O O O O B-prohibitions O B-coursename I-coursename I-coursename units
+BOS show me the description of Operating Systems Internals EOS	O O O O B-description O B-coursename I-coursename I-coursename units
+BOS show me the course code of Introduction to Artificial Intelligence (Adv) EOS	O O O O B-courseCode I-courseCode O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS show me the course name of Introduction to Artificial Intelligence (Adv) EOS	O O O O B-courseName I-courseName O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS show me the level of Introduction to Artificial Intelligence (Adv) EOS	O O O O B-level O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS show me the faculty of Introduction to Artificial Intelligence (Adv) EOS	O O O O B-faculty O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS show me the tutors of Introduction to Artificial Intelligence (Adv) EOS	O O O O B-tutors O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS show me the session of Introduction to Artificial Intelligence (Adv) EOS	O O O O B-session O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS show me the campus of Introduction to Artificial Intelligence (Adv) EOS	O O O O B-campus O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS show me the prerequisites of Introduction to Artificial Intelligence (Adv) EOS	O O O O B-prerequisites O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS show me the prohibitions of Introduction to Artificial Intelligence (Adv) EOS	O O O O B-prohibitions O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS show me the description of Introduction to Artificial Intelligence (Adv) EOS	O O O O B-description O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS show me the course code of Computer Science Project EOS	O O O O B-courseCode I-courseCode O B-coursename I-coursename I-coursename units
+BOS show me the course name of Computer Science Project EOS	O O O O B-courseName I-courseName O B-coursename I-coursename I-coursename units
+BOS show me the level of Computer Science Project EOS	O O O O B-level O B-coursename I-coursename I-coursename units
+BOS show me the faculty of Computer Science Project EOS	O O O O B-faculty O B-coursename I-coursename I-coursename units
+BOS show me the tutors of Computer Science Project EOS	O O O O B-tutors O B-coursename I-coursename I-coursename units
+BOS show me the session of Computer Science Project EOS	O O O O B-session O B-coursename I-coursename I-coursename units
+BOS show me the campus of Computer Science Project EOS	O O O O B-campus O B-coursename I-coursename I-coursename units
+BOS show me the prerequisites of Computer Science Project EOS	O O O O B-prerequisites O B-coursename I-coursename I-coursename units
+BOS show me the prohibitions of Computer Science Project EOS	O O O O B-prohibitions O B-coursename I-coursename I-coursename units
+BOS show me the description of Computer Science Project EOS	O O O O B-description O B-coursename I-coursename I-coursename units
+BOS show me the course code of Algorithm Design (Adv) EOS	O O O O B-courseCode I-courseCode O B-coursename I-coursename I-coursename units
+BOS show me the course name of Algorithm Design (Adv) EOS	O O O O B-courseName I-courseName O B-coursename I-coursename I-coursename units
+BOS show me the level of Algorithm Design (Adv) EOS	O O O O B-level O B-coursename I-coursename I-coursename units
+BOS show me the faculty of Algorithm Design (Adv) EOS	O O O O B-faculty O B-coursename I-coursename I-coursename units
+BOS show me the tutors of Algorithm Design (Adv) EOS	O O O O B-tutors O B-coursename I-coursename I-coursename units
+BOS show me the session of Algorithm Design (Adv) EOS	O O O O B-session O B-coursename I-coursename I-coursename units
+BOS show me the campus of Algorithm Design (Adv) EOS	O O O O B-campus O B-coursename I-coursename I-coursename units
+BOS show me the prerequisites of Algorithm Design (Adv) EOS	O O O O B-prerequisites O B-coursename I-coursename I-coursename units
+BOS show me the prohibitions of Algorithm Design (Adv) EOS	O O O O B-prohibitions O B-coursename I-coursename I-coursename units
+BOS show me the description of Algorithm Design (Adv) EOS	O O O O B-description O B-coursename I-coursename I-coursename units
+BOS show me the course code of Computer Science Project (Advanced) EOS	O O O O B-courseCode I-courseCode O B-coursename I-coursename I-coursename I-coursename units
+BOS show me the course name of Computer Science Project (Advanced) EOS	O O O O B-courseName I-courseName O B-coursename I-coursename I-coursename I-coursename units
+BOS show me the level of Computer Science Project (Advanced) EOS	O O O O B-level O B-coursename I-coursename I-coursename I-coursename units
+BOS show me the faculty of Computer Science Project (Advanced) EOS	O O O O B-faculty O B-coursename I-coursename I-coursename I-coursename units
+BOS show me the tutors of Computer Science Project (Advanced) EOS	O O O O B-tutors O B-coursename I-coursename I-coursename I-coursename units
+BOS show me the session of Computer Science Project (Advanced) EOS	O O O O B-session O B-coursename I-coursename I-coursename I-coursename units
+BOS show me the campus of Computer Science Project (Advanced) EOS	O O O O B-campus O B-coursename I-coursename I-coursename I-coursename units
+BOS show me the prerequisites of Computer Science Project (Advanced) EOS	O O O O B-prerequisites O B-coursename I-coursename I-coursename I-coursename units
+BOS show me the prohibitions of Computer Science Project (Advanced) EOS	O O O O B-prohibitions O B-coursename I-coursename I-coursename I-coursename units
+BOS show me the description of Computer Science Project (Advanced) EOS	O O O O B-description O B-coursename I-coursename I-coursename I-coursename units
+BOS show me the course code of Big Data and Data Diversity EOS	O O O O B-courseCode I-courseCode O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS show me the course name of Big Data and Data Diversity EOS	O O O O B-courseName I-courseName O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS show me the level of Big Data and Data Diversity EOS	O O O O B-level O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS show me the faculty of Big Data and Data Diversity EOS	O O O O B-faculty O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS show me the tutors of Big Data and Data Diversity EOS	O O O O B-tutors O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS show me the session of Big Data and Data Diversity EOS	O O O O B-session O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS show me the campus of Big Data and Data Diversity EOS	O O O O B-campus O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS show me the prerequisites of Big Data and Data Diversity EOS	O O O O B-prerequisites O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS show me the prohibitions of Big Data and Data Diversity EOS	O O O O B-prohibitions O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS show me the description of Big Data and Data Diversity EOS	O O O O B-description O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS show me the course code of Big Data and Data Diversity (Advanced) EOS	O O O O B-courseCode I-courseCode O B-coursename I-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS show me the course name of Big Data and Data Diversity (Advanced) EOS	O O O O B-courseName I-courseName O B-coursename I-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS show me the level of Big Data and Data Diversity (Advanced) EOS	O O O O B-level O B-coursename I-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS show me the faculty of Big Data and Data Diversity (Advanced) EOS	O O O O B-faculty O B-coursename I-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS show me the tutors of Big Data and Data Diversity (Advanced) EOS	O O O O B-tutors O B-coursename I-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS show me the session of Big Data and Data Diversity (Advanced) EOS	O O O O B-session O B-coursename I-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS show me the campus of Big Data and Data Diversity (Advanced) EOS	O O O O B-campus O B-coursename I-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS show me the prerequisites of Big Data and Data Diversity (Advanced) EOS	O O O O B-prerequisites O B-coursename I-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS show me the prohibitions of Big Data and Data Diversity (Advanced) EOS	O O O O B-prohibitions O B-coursename I-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS show me the description of Big Data and Data Diversity (Advanced) EOS	O O O O B-description O B-coursename I-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS show me the course code of Data Science Platforms EOS	O O O O B-courseCode I-courseCode O B-coursename I-coursename I-coursename units
+BOS show me the course name of Data Science Platforms EOS	O O O O B-courseName I-courseName O B-coursename I-coursename I-coursename units
+BOS show me the level of Data Science Platforms EOS	O O O O B-level O B-coursename I-coursename I-coursename units
+BOS show me the faculty of Data Science Platforms EOS	O O O O B-faculty O B-coursename I-coursename I-coursename units
+BOS show me the tutors of Data Science Platforms EOS	O O O O B-tutors O B-coursename I-coursename I-coursename units
+BOS show me the session of Data Science Platforms EOS	O O O O B-session O B-coursename I-coursename I-coursename units
+BOS show me the campus of Data Science Platforms EOS	O O O O B-campus O B-coursename I-coursename I-coursename units
+BOS show me the prerequisites of Data Science Platforms EOS	O O O O B-prerequisites O B-coursename I-coursename I-coursename units
+BOS show me the prohibitions of Data Science Platforms EOS	O O O O B-prohibitions O B-coursename I-coursename I-coursename units
+BOS show me the description of Data Science Platforms EOS	O O O O B-description O B-coursename I-coursename I-coursename units
+BOS show me the course code of Introduction to Health Data Science EOS	O O O O B-courseCode I-courseCode O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS show me the course name of Introduction to Health Data Science EOS	O O O O B-courseName I-courseName O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS show me the level of Introduction to Health Data Science EOS	O O O O B-level O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS show me the faculty of Introduction to Health Data Science EOS	O O O O B-faculty O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS show me the tutors of Introduction to Health Data Science EOS	O O O O B-tutors O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS show me the session of Introduction to Health Data Science EOS	O O O O B-session O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS show me the campus of Introduction to Health Data Science EOS	O O O O B-campus O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS show me the prerequisites of Introduction to Health Data Science EOS	O O O O B-prerequisites O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS show me the prohibitions of Introduction to Health Data Science EOS	O O O O B-prohibitions O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS show me the description of Introduction to Health Data Science EOS	O O O O B-description O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS show me the course code of Human-Computer Interaction EOS	O O O O B-courseCode I-courseCode O B-coursename I-coursename units
+BOS show me the course name of Human-Computer Interaction EOS	O O O O B-courseName I-courseName O B-coursename I-coursename units
+BOS show me the level of Human-Computer Interaction EOS	O O O O B-level O B-coursename I-coursename units
+BOS show me the faculty of Human-Computer Interaction EOS	O O O O B-faculty O B-coursename I-coursename units
+BOS show me the tutors of Human-Computer Interaction EOS	O O O O B-tutors O B-coursename I-coursename units
+BOS show me the session of Human-Computer Interaction EOS	O O O O B-session O B-coursename I-coursename units
+BOS show me the campus of Human-Computer Interaction EOS	O O O O B-campus O B-coursename I-coursename units
+BOS show me the prerequisites of Human-Computer Interaction EOS	O O O O B-prerequisites O B-coursename I-coursename units
+BOS show me the prohibitions of Human-Computer Interaction EOS	O O O O B-prohibitions O B-coursename I-coursename units
+BOS show me the description of Human-Computer Interaction EOS	O O O O B-description O B-coursename I-coursename units
+BOS show me the course code of Principles of Security and Security Engineering EOS	O O O O B-courseCode I-courseCode O B-coursename I-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS show me the course name of Principles of Security and Security Engineering EOS	O O O O B-courseName I-courseName O B-coursename I-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS show me the level of Principles of Security and Security Engineering EOS	O O O O B-level O B-coursename I-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS show me the faculty of Principles of Security and Security Engineering EOS	O O O O B-faculty O B-coursename I-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS show me the tutors of Principles of Security and Security Engineering EOS	O O O O B-tutors O B-coursename I-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS show me the session of Principles of Security and Security Engineering EOS	O O O O B-session O B-coursename I-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS show me the campus of Principles of Security and Security Engineering EOS	O O O O B-campus O B-coursename I-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS show me the prerequisites of Principles of Security and Security Engineering EOS	O O O O B-prerequisites O B-coursename I-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS show me the prohibitions of Principles of Security and Security Engineering EOS	O O O O B-prohibitions O B-coursename I-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS show me the description of Principles of Security and Security Engineering EOS	O O O O B-description O B-coursename I-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS show me the course code of Analysis & Design of Web Information Systems EOS	O O O O B-courseCode I-courseCode O B-coursename I-coursename I-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS show me the course name of Analysis & Design of Web Information Systems EOS	O O O O B-courseName I-courseName O B-coursename I-coursename I-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS show me the level of Analysis & Design of Web Information Systems EOS	O O O O B-level O B-coursename I-coursename I-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS show me the faculty of Analysis & Design of Web Information Systems EOS	O O O O B-faculty O B-coursename I-coursename I-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS show me the tutors of Analysis & Design of Web Information Systems EOS	O O O O B-tutors O B-coursename I-coursename I-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS show me the session of Analysis & Design of Web Information Systems EOS	O O O O B-session O B-coursename I-coursename I-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS show me the campus of Analysis & Design of Web Information Systems EOS	O O O O B-campus O B-coursename I-coursename I-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS show me the prerequisites of Analysis & Design of Web Information Systems EOS	O O O O B-prerequisites O B-coursename I-coursename I-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS show me the prohibitions of Analysis & Design of Web Information Systems EOS	O O O O B-prohibitions O B-coursename I-coursename I-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS show me the description of Analysis & Design of Web Information Systems EOS	O O O O B-description O B-coursename I-coursename I-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS show me the course code of Information Systems in the Internet Age EOS	O O O O B-courseCode I-courseCode O B-coursename I-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS show me the course name of Information Systems in the Internet Age EOS	O O O O B-courseName I-courseName O B-coursename I-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS show me the level of Information Systems in the Internet Age EOS	O O O O B-level O B-coursename I-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS show me the faculty of Information Systems in the Internet Age EOS	O O O O B-faculty O B-coursename I-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS show me the tutors of Information Systems in the Internet Age EOS	O O O O B-tutors O B-coursename I-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS show me the session of Information Systems in the Internet Age EOS	O O O O B-session O B-coursename I-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS show me the campus of Information Systems in the Internet Age EOS	O O O O B-campus O B-coursename I-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS show me the prerequisites of Information Systems in the Internet Age EOS	O O O O B-prerequisites O B-coursename I-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS show me the prohibitions of Information Systems in the Internet Age EOS	O O O O B-prohibitions O B-coursename I-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS show me the description of Information Systems in the Internet Age EOS	O O O O B-description O B-coursename I-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS show me the course code of Information Technology Evaluation EOS	O O O O B-courseCode I-courseCode O B-coursename I-coursename I-coursename units
+BOS show me the course name of Information Technology Evaluation EOS	O O O O B-courseName I-courseName O B-coursename I-coursename I-coursename units
+BOS show me the level of Information Technology Evaluation EOS	O O O O B-level O B-coursename I-coursename I-coursename units
+BOS show me the faculty of Information Technology Evaluation EOS	O O O O B-faculty O B-coursename I-coursename I-coursename units
+BOS show me the tutors of Information Technology Evaluation EOS	O O O O B-tutors O B-coursename I-coursename I-coursename units
+BOS show me the session of Information Technology Evaluation EOS	O O O O B-session O B-coursename I-coursename I-coursename units
+BOS show me the campus of Information Technology Evaluation EOS	O O O O B-campus O B-coursename I-coursename I-coursename units
+BOS show me the prerequisites of Information Technology Evaluation EOS	O O O O B-prerequisites O B-coursename I-coursename I-coursename units
+BOS show me the prohibitions of Information Technology Evaluation EOS	O O O O B-prohibitions O B-coursename I-coursename I-coursename units
+BOS show me the description of Information Technology Evaluation EOS	O O O O B-description O B-coursename I-coursename I-coursename units
+BOS show me the course code of Decision Analytics & Support Systems EOS	O O O O B-courseCode I-courseCode O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS show me the course name of Decision Analytics & Support Systems EOS	O O O O B-courseName I-courseName O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS show me the level of Decision Analytics & Support Systems EOS	O O O O B-level O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS show me the faculty of Decision Analytics & Support Systems EOS	O O O O B-faculty O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS show me the tutors of Decision Analytics & Support Systems EOS	O O O O B-tutors O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS show me the session of Decision Analytics & Support Systems EOS	O O O O B-session O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS show me the campus of Decision Analytics & Support Systems EOS	O O O O B-campus O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS show me the prerequisites of Decision Analytics & Support Systems EOS	O O O O B-prerequisites O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS show me the prohibitions of Decision Analytics & Support Systems EOS	O O O O B-prohibitions O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS show me the description of Decision Analytics & Support Systems EOS	O O O O B-description O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS show me the course code of Information Systems Project EOS	O O O O B-courseCode I-courseCode O B-coursename I-coursename I-coursename units
+BOS show me the course name of Information Systems Project EOS	O O O O B-courseName I-courseName O B-coursename I-coursename I-coursename units
+BOS show me the level of Information Systems Project EOS	O O O O B-level O B-coursename I-coursename I-coursename units
+BOS show me the faculty of Information Systems Project EOS	O O O O B-faculty O B-coursename I-coursename I-coursename units
+BOS show me the tutors of Information Systems Project EOS	O O O O B-tutors O B-coursename I-coursename I-coursename units
+BOS show me the session of Information Systems Project EOS	O O O O B-session O B-coursename I-coursename I-coursename units
+BOS show me the campus of Information Systems Project EOS	O O O O B-campus O B-coursename I-coursename I-coursename units
+BOS show me the prerequisites of Information Systems Project EOS	O O O O B-prerequisites O B-coursename I-coursename I-coursename units
+BOS show me the prohibitions of Information Systems Project EOS	O O O O B-prohibitions O B-coursename I-coursename I-coursename units
+BOS show me the description of Information Systems Project EOS	O O O O B-description O B-coursename I-coursename I-coursename units
+BOS show me the course code of Software Construction and Design 1 EOS	O O O O B-courseCode I-courseCode O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS show me the course name of Software Construction and Design 1 EOS	O O O O B-courseName I-courseName O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS show me the level of Software Construction and Design 1 EOS	O O O O B-level O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS show me the faculty of Software Construction and Design 1 EOS	O O O O B-faculty O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS show me the tutors of Software Construction and Design 1 EOS	O O O O B-tutors O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS show me the session of Software Construction and Design 1 EOS	O O O O B-session O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS show me the campus of Software Construction and Design 1 EOS	O O O O B-campus O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS show me the prerequisites of Software Construction and Design 1 EOS	O O O O B-prerequisites O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS show me the prohibitions of Software Construction and Design 1 EOS	O O O O B-prohibitions O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS show me the description of Software Construction and Design 1 EOS	O O O O B-description O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS show me the course code of Software Construction and Design 2 EOS	O O O O B-courseCode I-courseCode O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS show me the course name of Software Construction and Design 2 EOS	O O O O B-courseName I-courseName O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS show me the level of Software Construction and Design 2 EOS	O O O O B-level O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS show me the faculty of Software Construction and Design 2 EOS	O O O O B-faculty O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS show me the tutors of Software Construction and Design 2 EOS	O O O O B-tutors O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS show me the session of Software Construction and Design 2 EOS	O O O O B-session O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS show me the campus of Software Construction and Design 2 EOS	O O O O B-campus O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS show me the prerequisites of Software Construction and Design 2 EOS	O O O O B-prerequisites O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS show me the prohibitions of Software Construction and Design 2 EOS	O O O O B-prohibitions O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS show me the description of Software Construction and Design 2 EOS	O O O O B-description O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS show me the course code of Concurrency for Software Development EOS	O O O O B-courseCode I-courseCode O B-coursename I-coursename I-coursename I-coursename units
+BOS show me the course name of Concurrency for Software Development EOS	O O O O B-courseName I-courseName O B-coursename I-coursename I-coursename I-coursename units
+BOS show me the level of Concurrency for Software Development EOS	O O O O B-level O B-coursename I-coursename I-coursename I-coursename units
+BOS show me the faculty of Concurrency for Software Development EOS	O O O O B-faculty O B-coursename I-coursename I-coursename I-coursename units
+BOS show me the tutors of Concurrency for Software Development EOS	O O O O B-tutors O B-coursename I-coursename I-coursename I-coursename units
+BOS show me the session of Concurrency for Software Development EOS	O O O O B-session O B-coursename I-coursename I-coursename I-coursename units
+BOS show me the campus of Concurrency for Software Development EOS	O O O O B-campus O B-coursename I-coursename I-coursename I-coursename units
+BOS show me the prerequisites of Concurrency for Software Development EOS	O O O O B-prerequisites O B-coursename I-coursename I-coursename I-coursename units
+BOS show me the prohibitions of Concurrency for Software Development EOS	O O O O B-prohibitions O B-coursename I-coursename I-coursename I-coursename units
+BOS show me the description of Concurrency for Software Development EOS	O O O O B-description O B-coursename I-coursename I-coursename I-coursename units
+BOS show me the course code of Software Development Project EOS	O O O O B-courseCode I-courseCode O B-coursename I-coursename I-coursename units
+BOS show me the course name of Software Development Project EOS	O O O O B-courseName I-courseName O B-coursename I-coursename I-coursename units
+BOS show me the level of Software Development Project EOS	O O O O B-level O B-coursename I-coursename I-coursename units
+BOS show me the faculty of Software Development Project EOS	O O O O B-faculty O B-coursename I-coursename I-coursename units
+BOS show me the tutors of Software Development Project EOS	O O O O B-tutors O B-coursename I-coursename I-coursename units
+BOS show me the session of Software Development Project EOS	O O O O B-session O B-coursename I-coursename I-coursename units
+BOS show me the campus of Software Development Project EOS	O O O O B-campus O B-coursename I-coursename I-coursename units
+BOS show me the prerequisites of Software Development Project EOS	O O O O B-prerequisites O B-coursename I-coursename I-coursename units
+BOS show me the prohibitions of Software Development Project EOS	O O O O B-prohibitions O B-coursename I-coursename I-coursename units
+BOS show me the description of Software Development Project EOS	O O O O B-description O B-coursename I-coursename I-coursename units
+BOS show me the course code of Data Structures & Algorithms EOS	O O O O B-courseCode I-courseCode O B-coursename I-coursename I-coursename I-coursename units
+BOS show me the course name of Data Structures & Algorithms EOS	O O O O B-courseName I-courseName O B-coursename I-coursename I-coursename I-coursename units
+BOS show me the level of Data Structures & Algorithms EOS	O O O O B-level O B-coursename I-coursename I-coursename I-coursename units
+BOS show me the faculty of Data Structures & Algorithms EOS	O O O O B-faculty O B-coursename I-coursename I-coursename I-coursename units
+BOS show me the tutors of Data Structures & Algorithms EOS	O O O O B-tutors O B-coursename I-coursename I-coursename I-coursename units
+BOS show me the session of Data Structures & Algorithms EOS	O O O O B-session O B-coursename I-coursename I-coursename I-coursename units
+BOS show me the campus of Data Structures & Algorithms EOS	O O O O B-campus O B-coursename I-coursename I-coursename I-coursename units
+BOS show me the prerequisites of Data Structures & Algorithms EOS	O O O O B-prerequisites O B-coursename I-coursename I-coursename I-coursename units
+BOS show me the prohibitions of Data Structures & Algorithms EOS	O O O O B-prohibitions O B-coursename I-coursename I-coursename I-coursename units
+BOS show me the description of Data Structures & Algorithms EOS	O O O O B-description O B-coursename I-coursename I-coursename I-coursename units
+BOS show me the course code of Computing 2 Usability and Security EOS	O O O O B-courseCode I-courseCode O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS show me the course name of Computing 2 Usability and Security EOS	O O O O B-courseName I-courseName O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS show me the level of Computing 2 Usability and Security EOS	O O O O B-level O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS show me the faculty of Computing 2 Usability and Security EOS	O O O O B-faculty O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS show me the tutors of Computing 2 Usability and Security EOS	O O O O B-tutors O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS show me the session of Computing 2 Usability and Security EOS	O O O O B-session O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS show me the campus of Computing 2 Usability and Security EOS	O O O O B-campus O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS show me the prerequisites of Computing 2 Usability and Security EOS	O O O O B-prerequisites O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS show me the prohibitions of Computing 2 Usability and Security EOS	O O O O B-prohibitions O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS show me the description of Computing 2 Usability and Security EOS	O O O O B-description O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS show me the course code of Data & Information Management EOS	O O O O B-courseCode I-courseCode O B-coursename I-coursename I-coursename I-coursename units
+BOS show me the course name of Data & Information Management EOS	O O O O B-courseName I-courseName O B-coursename I-coursename I-coursename I-coursename units
+BOS show me the level of Data & Information Management EOS	O O O O B-level O B-coursename I-coursename I-coursename I-coursename units
+BOS show me the faculty of Data & Information Management EOS	O O O O B-faculty O B-coursename I-coursename I-coursename I-coursename units
+BOS show me the tutors of Data & Information Management EOS	O O O O B-tutors O B-coursename I-coursename I-coursename I-coursename units
+BOS show me the session of Data & Information Management EOS	O O O O B-session O B-coursename I-coursename I-coursename I-coursename units
+BOS show me the campus of Data & Information Management EOS	O O O O B-campus O B-coursename I-coursename I-coursename I-coursename units
+BOS show me the prerequisites of Data & Information Management EOS	O O O O B-prerequisites O B-coursename I-coursename I-coursename I-coursename units
+BOS show me the prohibitions of Data & Information Management EOS	O O O O B-prohibitions O B-coursename I-coursename I-coursename I-coursename units
+BOS show me the description of Data & Information Management EOS	O O O O B-description O B-coursename I-coursename I-coursename I-coursename units
+BOS show me the course code of Agile Software Development Practices EOS	O O O O B-courseCode I-courseCode O B-coursename I-coursename I-coursename I-coursename units
+BOS show me the course name of Agile Software Development Practices EOS	O O O O B-courseName I-courseName O B-coursename I-coursename I-coursename I-coursename units
+BOS show me the level of Agile Software Development Practices EOS	O O O O B-level O B-coursename I-coursename I-coursename I-coursename units
+BOS show me the faculty of Agile Software Development Practices EOS	O O O O B-faculty O B-coursename I-coursename I-coursename I-coursename units
+BOS show me the tutors of Agile Software Development Practices EOS	O O O O B-tutors O B-coursename I-coursename I-coursename I-coursename units
+BOS show me the session of Agile Software Development Practices EOS	O O O O B-session O B-coursename I-coursename I-coursename I-coursename units
+BOS show me the campus of Agile Software Development Practices EOS	O O O O B-campus O B-coursename I-coursename I-coursename I-coursename units
+BOS show me the prerequisites of Agile Software Development Practices EOS	O O O O B-prerequisites O B-coursename I-coursename I-coursename I-coursename units
+BOS show me the prohibitions of Agile Software Development Practices EOS	O O O O B-prohibitions O B-coursename I-coursename I-coursename I-coursename units
+BOS show me the description of Agile Software Development Practices EOS	O O O O B-description O B-coursename I-coursename I-coursename I-coursename units
+BOS show me the course code of Computing 3 Management EOS	O O O O B-courseCode I-courseCode O B-coursename I-coursename I-coursename units
+BOS show me the course name of Computing 3 Management EOS	O O O O B-courseName I-courseName O B-coursename I-coursename I-coursename units
+BOS show me the level of Computing 3 Management EOS	O O O O B-level O B-coursename I-coursename I-coursename units
+BOS show me the faculty of Computing 3 Management EOS	O O O O B-faculty O B-coursename I-coursename I-coursename units
+BOS show me the tutors of Computing 3 Management EOS	O O O O B-tutors O B-coursename I-coursename I-coursename units
+BOS show me the session of Computing 3 Management EOS	O O O O B-session O B-coursename I-coursename I-coursename units
+BOS show me the campus of Computing 3 Management EOS	O O O O B-campus O B-coursename I-coursename I-coursename units
+BOS show me the prerequisites of Computing 3 Management EOS	O O O O B-prerequisites O B-coursename I-coursename I-coursename units
+BOS show me the prohibitions of Computing 3 Management EOS	O O O O B-prohibitions O B-coursename I-coursename I-coursename units
+BOS show me the description of Computing 3 Management EOS	O O O O B-description O B-coursename I-coursename I-coursename units
+BOS show me the course code of Computing 4 Innovation EOS	O O O O B-courseCode I-courseCode O B-coursename I-coursename I-coursename units
+BOS show me the course name of Computing 4 Innovation EOS	O O O O B-courseName I-courseName O B-coursename I-coursename I-coursename units
+BOS show me the level of Computing 4 Innovation EOS	O O O O B-level O B-coursename I-coursename I-coursename units
+BOS show me the faculty of Computing 4 Innovation EOS	O O O O B-faculty O B-coursename I-coursename I-coursename units
+BOS show me the tutors of Computing 4 Innovation EOS	O O O O B-tutors O B-coursename I-coursename I-coursename units
+BOS show me the session of Computing 4 Innovation EOS	O O O O B-session O B-coursename I-coursename I-coursename units
+BOS show me the campus of Computing 4 Innovation EOS	O O O O B-campus O B-coursename I-coursename I-coursename units
+BOS show me the prerequisites of Computing 4 Innovation EOS	O O O O B-prerequisites O B-coursename I-coursename I-coursename units
+BOS show me the prohibitions of Computing 4 Innovation EOS	O O O O B-prohibitions O B-coursename I-coursename I-coursename units
+BOS show me the description of Computing 4 Innovation EOS	O O O O B-description O B-coursename I-coursename I-coursename units
+BOS What's the course code of Introduction to Programming EOS	O O O B-courseCode I-courseCode O B-coursename I-coursename I-coursename units
+BOS What's the course name of Introduction to Programming EOS	O O O B-courseName I-courseName O B-coursename I-coursename I-coursename units
+BOS What's the level of Introduction to Programming EOS	O O O B-level O B-coursename I-coursename I-coursename units
+BOS What's the faculty of Introduction to Programming EOS	O O O B-faculty O B-coursename I-coursename I-coursename units
+BOS What's the tutors of Introduction to Programming EOS	O O O B-tutors O B-coursename I-coursename I-coursename units
+BOS What's the session of Introduction to Programming EOS	O O O B-session O B-coursename I-coursename I-coursename units
+BOS What's the campus of Introduction to Programming EOS	O O O B-campus O B-coursename I-coursename I-coursename units
+BOS What's the prerequisites of Introduction to Programming EOS	O O O B-prerequisites O B-coursename I-coursename I-coursename units
+BOS What's the prohibitions of Introduction to Programming EOS	O O O B-prohibitions O B-coursename I-coursename I-coursename units
+BOS What's the description of Introduction to Programming EOS	O O O B-description O B-coursename I-coursename I-coursename units
+BOS What's the course code of Computing 1A Professionalism EOS	O O O B-courseCode I-courseCode O B-coursename I-coursename I-coursename units
+BOS What's the course name of Computing 1A Professionalism EOS	O O O B-courseName I-courseName O B-coursename I-coursename I-coursename units
+BOS What's the level of Computing 1A Professionalism EOS	O O O B-level O B-coursename I-coursename I-coursename units
+BOS What's the faculty of Computing 1A Professionalism EOS	O O O B-faculty O B-coursename I-coursename I-coursename units
+BOS What's the tutors of Computing 1A Professionalism EOS	O O O B-tutors O B-coursename I-coursename I-coursename units
+BOS What's the session of Computing 1A Professionalism EOS	O O O B-session O B-coursename I-coursename I-coursename units
+BOS What's the campus of Computing 1A Professionalism EOS	O O O B-campus O B-coursename I-coursename I-coursename units
+BOS What's the prerequisites of Computing 1A Professionalism EOS	O O O B-prerequisites O B-coursename I-coursename I-coursename units
+BOS What's the prohibitions of Computing 1A Professionalism EOS	O O O B-prohibitions O B-coursename I-coursename I-coursename units
+BOS What's the description of Computing 1A Professionalism EOS	O O O B-description O B-coursename I-coursename I-coursename units
+BOS What's the course code of Computing 1B OS & Network Platforms EOS	O O O B-courseCode I-courseCode O B-coursename I-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS What's the course name of Computing 1B OS & Network Platforms EOS	O O O B-courseName I-courseName O B-coursename I-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS What's the level of Computing 1B OS & Network Platforms EOS	O O O B-level O B-coursename I-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS What's the faculty of Computing 1B OS & Network Platforms EOS	O O O B-faculty O B-coursename I-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS What's the tutors of Computing 1B OS & Network Platforms EOS	O O O B-tutors O B-coursename I-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS What's the session of Computing 1B OS & Network Platforms EOS	O O O B-session O B-coursename I-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS What's the campus of Computing 1B OS & Network Platforms EOS	O O O B-campus O B-coursename I-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS What's the prerequisites of Computing 1B OS & Network Platforms EOS	O O O B-prerequisites O B-coursename I-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS What's the prohibitions of Computing 1B OS & Network Platforms EOS	O O O B-prohibitions O B-coursename I-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS What's the description of Computing 1B OS & Network Platforms EOS	O O O B-description O B-coursename I-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS What's the course code of Introduction to Computer Systems  EOS	O O O B-courseCode I-courseCode O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS What's the course name of Introduction to Computer Systems  EOS	O O O B-courseName I-courseName O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS What's the level of Introduction to Computer Systems  EOS	O O O B-level O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS What's the faculty of Introduction to Computer Systems  EOS	O O O B-faculty O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS What's the tutors of Introduction to Computer Systems  EOS	O O O B-tutors O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS What's the session of Introduction to Computer Systems  EOS	O O O B-session O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS What's the campus of Introduction to Computer Systems  EOS	O O O B-campus O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS What's the prerequisites of Introduction to Computer Systems  EOS	O O O B-prerequisites O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS What's the prohibitions of Introduction to Computer Systems  EOS	O O O B-prohibitions O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS What's the description of Introduction to Computer Systems  EOS	O O O B-description O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS What's the course code of Object-Oriented Programming EOS	O O O B-courseCode I-courseCode O B-coursename I-coursename units
+BOS What's the course name of Object-Oriented Programming EOS	O O O B-courseName I-courseName O B-coursename I-coursename units
+BOS What's the level of Object-Oriented Programming EOS	O O O B-level O B-coursename I-coursename units
+BOS What's the faculty of Object-Oriented Programming EOS	O O O B-faculty O B-coursename I-coursename units
+BOS What's the tutors of Object-Oriented Programming EOS	O O O B-tutors O B-coursename I-coursename units
+BOS What's the session of Object-Oriented Programming EOS	O O O B-session O B-coursename I-coursename units
+BOS What's the campus of Object-Oriented Programming EOS	O O O B-campus O B-coursename I-coursename units
+BOS What's the prerequisites of Object-Oriented Programming EOS	O O O B-prerequisites O B-coursename I-coursename units
+BOS What's the prohibitions of Object-Oriented Programming EOS	O O O B-prohibitions O B-coursename I-coursename units
+BOS What's the description of Object-Oriented Programming EOS	O O O B-description O B-coursename I-coursename units
+BOS What's the course code of Systems Programming EOS	O O O B-courseCode I-courseCode O B-coursename I-coursename units
+BOS What's the course name of Systems Programming EOS	O O O B-courseName I-courseName O B-coursename I-coursename units
+BOS What's the level of Systems Programming EOS	O O O B-level O B-coursename I-coursename units
+BOS What's the faculty of Systems Programming EOS	O O O B-faculty O B-coursename I-coursename units
+BOS What's the tutors of Systems Programming EOS	O O O B-tutors O B-coursename I-coursename units
+BOS What's the session of Systems Programming EOS	O O O B-session O B-coursename I-coursename units
+BOS What's the campus of Systems Programming EOS	O O O B-campus O B-coursename I-coursename units
+BOS What's the prerequisites of Systems Programming EOS	O O O B-prerequisites O B-coursename I-coursename units
+BOS What's the prohibitions of Systems Programming EOS	O O O B-prohibitions O B-coursename I-coursename units
+BOS What's the description of Systems Programming EOS	O O O B-description O B-coursename I-coursename units
+BOS What's the course code of Programming Languages, Logic and Models EOS	O O O B-courseCode I-courseCode O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS What's the course name of Programming Languages, Logic and Models EOS	O O O B-courseName I-courseName O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS What's the level of Programming Languages, Logic and Models EOS	O O O B-level O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS What's the faculty of Programming Languages, Logic and Models EOS	O O O B-faculty O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS What's the tutors of Programming Languages, Logic and Models EOS	O O O B-tutors O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS What's the session of Programming Languages, Logic and Models EOS	O O O B-session O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS What's the campus of Programming Languages, Logic and Models EOS	O O O B-campus O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS What's the prerequisites of Programming Languages, Logic and Models EOS	O O O B-prerequisites O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS What's the prohibitions of Programming Languages, Logic and Models EOS	O O O B-prohibitions O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS What's the description of Programming Languages, Logic and Models EOS	O O O B-description O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS What's the course code of Programming Languages, Logic and Models (Adv) EOS	O O O B-courseCode I-courseCode O B-coursename I-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS What's the course name of Programming Languages, Logic and Models (Adv) EOS	O O O B-courseName I-courseName O B-coursename I-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS What's the level of Programming Languages, Logic and Models (Adv) EOS	O O O B-level O B-coursename I-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS What's the faculty of Programming Languages, Logic and Models (Adv) EOS	O O O B-faculty O B-coursename I-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS What's the tutors of Programming Languages, Logic and Models (Adv) EOS	O O O B-tutors O B-coursename I-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS What's the session of Programming Languages, Logic and Models (Adv) EOS	O O O B-session O B-coursename I-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS What's the campus of Programming Languages, Logic and Models (Adv) EOS	O O O B-campus O B-coursename I-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS What's the prerequisites of Programming Languages, Logic and Models (Adv) EOS	O O O B-prerequisites O B-coursename I-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS What's the prohibitions of Programming Languages, Logic and Models (Adv) EOS	O O O B-prohibitions O B-coursename I-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS What's the description of Programming Languages, Logic and Models (Adv) EOS	O O O B-description O B-coursename I-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS What's the course code of Algorithm Design EOS	O O O B-courseCode I-courseCode O B-coursename I-coursename units
+BOS What's the course name of Algorithm Design EOS	O O O B-courseName I-courseName O B-coursename I-coursename units
+BOS What's the level of Algorithm Design EOS	O O O B-level O B-coursename I-coursename units
+BOS What's the faculty of Algorithm Design EOS	O O O B-faculty O B-coursename I-coursename units
+BOS What's the tutors of Algorithm Design EOS	O O O B-tutors O B-coursename I-coursename units
+BOS What's the session of Algorithm Design EOS	O O O B-session O B-coursename I-coursename units
+BOS What's the campus of Algorithm Design EOS	O O O B-campus O B-coursename I-coursename units
+BOS What's the prerequisites of Algorithm Design EOS	O O O B-prerequisites O B-coursename I-coursename units
+BOS What's the prohibitions of Algorithm Design EOS	O O O B-prohibitions O B-coursename I-coursename units
+BOS What's the description of Algorithm Design EOS	O O O B-description O B-coursename I-coursename units
+BOS What's the course code of Programming Languages and Paradigms EOS	O O O B-courseCode I-courseCode O B-coursename I-coursename I-coursename I-coursename units
+BOS What's the course name of Programming Languages and Paradigms EOS	O O O B-courseName I-courseName O B-coursename I-coursename I-coursename I-coursename units
+BOS What's the level of Programming Languages and Paradigms EOS	O O O B-level O B-coursename I-coursename I-coursename I-coursename units
+BOS What's the faculty of Programming Languages and Paradigms EOS	O O O B-faculty O B-coursename I-coursename I-coursename I-coursename units
+BOS What's the tutors of Programming Languages and Paradigms EOS	O O O B-tutors O B-coursename I-coursename I-coursename I-coursename units
+BOS What's the session of Programming Languages and Paradigms EOS	O O O B-session O B-coursename I-coursename I-coursename I-coursename units
+BOS What's the campus of Programming Languages and Paradigms EOS	O O O B-campus O B-coursename I-coursename I-coursename I-coursename units
+BOS What's the prerequisites of Programming Languages and Paradigms EOS	O O O B-prerequisites O B-coursename I-coursename I-coursename I-coursename units
+BOS What's the prohibitions of Programming Languages and Paradigms EOS	O O O B-prohibitions O B-coursename I-coursename I-coursename I-coursename units
+BOS What's the description of Programming Languages and Paradigms EOS	O O O B-description O B-coursename I-coursename I-coursename I-coursename units
+BOS What's the course code of Distributed Systems EOS	O O O B-courseCode I-courseCode O B-coursename I-coursename units
+BOS What's the course name of Distributed Systems EOS	O O O B-courseName I-courseName O B-coursename I-coursename units
+BOS What's the level of Distributed Systems EOS	O O O B-level O B-coursename I-coursename units
+BOS What's the faculty of Distributed Systems EOS	O O O B-faculty O B-coursename I-coursename units
+BOS What's the tutors of Distributed Systems EOS	O O O B-tutors O B-coursename I-coursename units
+BOS What's the session of Distributed Systems EOS	O O O B-session O B-coursename I-coursename units
+BOS What's the campus of Distributed Systems EOS	O O O B-campus O B-coursename I-coursename units
+BOS What's the prerequisites of Distributed Systems EOS	O O O B-prerequisites O B-coursename I-coursename units
+BOS What's the prohibitions of Distributed Systems EOS	O O O B-prohibitions O B-coursename I-coursename units
+BOS What's the description of Distributed Systems EOS	O O O B-description O B-coursename I-coursename units
+BOS What's the course code of Introduction to Artificial Intelligence EOS	O O O B-courseCode I-courseCode O B-coursename I-coursename I-coursename I-coursename units
+BOS What's the course name of Introduction to Artificial Intelligence EOS	O O O B-courseName I-courseName O B-coursename I-coursename I-coursename I-coursename units
+BOS What's the level of Introduction to Artificial Intelligence EOS	O O O B-level O B-coursename I-coursename I-coursename I-coursename units
+BOS What's the faculty of Introduction to Artificial Intelligence EOS	O O O B-faculty O B-coursename I-coursename I-coursename I-coursename units
+BOS What's the tutors of Introduction to Artificial Intelligence EOS	O O O B-tutors O B-coursename I-coursename I-coursename I-coursename units
+BOS What's the session of Introduction to Artificial Intelligence EOS	O O O B-session O B-coursename I-coursename I-coursename I-coursename units
+BOS What's the campus of Introduction to Artificial Intelligence EOS	O O O B-campus O B-coursename I-coursename I-coursename I-coursename units
+BOS What's the prerequisites of Introduction to Artificial Intelligence EOS	O O O B-prerequisites O B-coursename I-coursename I-coursename I-coursename units
+BOS What's the prohibitions of Introduction to Artificial Intelligence EOS	O O O B-prohibitions O B-coursename I-coursename I-coursename I-coursename units
+BOS What's the description of Introduction to Artificial Intelligence EOS	O O O B-description O B-coursename I-coursename I-coursename I-coursename units
+BOS What's the course code of Graphics and Multimedia EOS	O O O B-courseCode I-courseCode O B-coursename I-coursename I-coursename units
+BOS What's the course name of Graphics and Multimedia EOS	O O O B-courseName I-courseName O B-coursename I-coursename I-coursename units
+BOS What's the level of Graphics and Multimedia EOS	O O O B-level O B-coursename I-coursename I-coursename units
+BOS What's the faculty of Graphics and Multimedia EOS	O O O B-faculty O B-coursename I-coursename I-coursename units
+BOS What's the tutors of Graphics and Multimedia EOS	O O O B-tutors O B-coursename I-coursename I-coursename units
+BOS What's the session of Graphics and Multimedia EOS	O O O B-session O B-coursename I-coursename I-coursename units
+BOS What's the campus of Graphics and Multimedia EOS	O O O B-campus O B-coursename I-coursename I-coursename units
+BOS What's the prerequisites of Graphics and Multimedia EOS	O O O B-prerequisites O B-coursename I-coursename I-coursename units
+BOS What's the prohibitions of Graphics and Multimedia EOS	O O O B-prohibitions O B-coursename I-coursename I-coursename units
+BOS What's the description of Graphics and Multimedia EOS	O O O B-description O B-coursename I-coursename I-coursename units
+BOS What's the course code of Operating Systems Internals EOS	O O O B-courseCode I-courseCode O B-coursename I-coursename I-coursename units
+BOS What's the course name of Operating Systems Internals EOS	O O O B-courseName I-courseName O B-coursename I-coursename I-coursename units
+BOS What's the level of Operating Systems Internals EOS	O O O B-level O B-coursename I-coursename I-coursename units
+BOS What's the faculty of Operating Systems Internals EOS	O O O B-faculty O B-coursename I-coursename I-coursename units
+BOS What's the tutors of Operating Systems Internals EOS	O O O B-tutors O B-coursename I-coursename I-coursename units
+BOS What's the session of Operating Systems Internals EOS	O O O B-session O B-coursename I-coursename I-coursename units
+BOS What's the campus of Operating Systems Internals EOS	O O O B-campus O B-coursename I-coursename I-coursename units
+BOS What's the prerequisites of Operating Systems Internals EOS	O O O B-prerequisites O B-coursename I-coursename I-coursename units
+BOS What's the prohibitions of Operating Systems Internals EOS	O O O B-prohibitions O B-coursename I-coursename I-coursename units
+BOS What's the description of Operating Systems Internals EOS	O O O B-description O B-coursename I-coursename I-coursename units
+BOS What's the course code of Introduction to Artificial Intelligence (Adv) EOS	O O O B-courseCode I-courseCode O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS What's the course name of Introduction to Artificial Intelligence (Adv) EOS	O O O B-courseName I-courseName O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS What's the level of Introduction to Artificial Intelligence (Adv) EOS	O O O B-level O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS What's the faculty of Introduction to Artificial Intelligence (Adv) EOS	O O O B-faculty O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS What's the tutors of Introduction to Artificial Intelligence (Adv) EOS	O O O B-tutors O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS What's the session of Introduction to Artificial Intelligence (Adv) EOS	O O O B-session O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS What's the campus of Introduction to Artificial Intelligence (Adv) EOS	O O O B-campus O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS What's the prerequisites of Introduction to Artificial Intelligence (Adv) EOS	O O O B-prerequisites O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS What's the prohibitions of Introduction to Artificial Intelligence (Adv) EOS	O O O B-prohibitions O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS What's the description of Introduction to Artificial Intelligence (Adv) EOS	O O O B-description O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS What's the course code of Computer Science Project EOS	O O O B-courseCode I-courseCode O B-coursename I-coursename I-coursename units
+BOS What's the course name of Computer Science Project EOS	O O O B-courseName I-courseName O B-coursename I-coursename I-coursename units
+BOS What's the level of Computer Science Project EOS	O O O B-level O B-coursename I-coursename I-coursename units
+BOS What's the faculty of Computer Science Project EOS	O O O B-faculty O B-coursename I-coursename I-coursename units
+BOS What's the tutors of Computer Science Project EOS	O O O B-tutors O B-coursename I-coursename I-coursename units
+BOS What's the session of Computer Science Project EOS	O O O B-session O B-coursename I-coursename I-coursename units
+BOS What's the campus of Computer Science Project EOS	O O O B-campus O B-coursename I-coursename I-coursename units
+BOS What's the prerequisites of Computer Science Project EOS	O O O B-prerequisites O B-coursename I-coursename I-coursename units
+BOS What's the prohibitions of Computer Science Project EOS	O O O B-prohibitions O B-coursename I-coursename I-coursename units
+BOS What's the description of Computer Science Project EOS	O O O B-description O B-coursename I-coursename I-coursename units
+BOS What's the course code of Algorithm Design (Adv) EOS	O O O B-courseCode I-courseCode O B-coursename I-coursename I-coursename units
+BOS What's the course name of Algorithm Design (Adv) EOS	O O O B-courseName I-courseName O B-coursename I-coursename I-coursename units
+BOS What's the level of Algorithm Design (Adv) EOS	O O O B-level O B-coursename I-coursename I-coursename units
+BOS What's the faculty of Algorithm Design (Adv) EOS	O O O B-faculty O B-coursename I-coursename I-coursename units
+BOS What's the tutors of Algorithm Design (Adv) EOS	O O O B-tutors O B-coursename I-coursename I-coursename units
+BOS What's the session of Algorithm Design (Adv) EOS	O O O B-session O B-coursename I-coursename I-coursename units
+BOS What's the campus of Algorithm Design (Adv) EOS	O O O B-campus O B-coursename I-coursename I-coursename units
+BOS What's the prerequisites of Algorithm Design (Adv) EOS	O O O B-prerequisites O B-coursename I-coursename I-coursename units
+BOS What's the prohibitions of Algorithm Design (Adv) EOS	O O O B-prohibitions O B-coursename I-coursename I-coursename units
+BOS What's the description of Algorithm Design (Adv) EOS	O O O B-description O B-coursename I-coursename I-coursename units
+BOS What's the course code of Computer Science Project (Advanced) EOS	O O O B-courseCode I-courseCode O B-coursename I-coursename I-coursename I-coursename units
+BOS What's the course name of Computer Science Project (Advanced) EOS	O O O B-courseName I-courseName O B-coursename I-coursename I-coursename I-coursename units
+BOS What's the level of Computer Science Project (Advanced) EOS	O O O B-level O B-coursename I-coursename I-coursename I-coursename units
+BOS What's the faculty of Computer Science Project (Advanced) EOS	O O O B-faculty O B-coursename I-coursename I-coursename I-coursename units
+BOS What's the tutors of Computer Science Project (Advanced) EOS	O O O B-tutors O B-coursename I-coursename I-coursename I-coursename units
+BOS What's the session of Computer Science Project (Advanced) EOS	O O O B-session O B-coursename I-coursename I-coursename I-coursename units
+BOS What's the campus of Computer Science Project (Advanced) EOS	O O O B-campus O B-coursename I-coursename I-coursename I-coursename units
+BOS What's the prerequisites of Computer Science Project (Advanced) EOS	O O O B-prerequisites O B-coursename I-coursename I-coursename I-coursename units
+BOS What's the prohibitions of Computer Science Project (Advanced) EOS	O O O B-prohibitions O B-coursename I-coursename I-coursename I-coursename units
+BOS What's the description of Computer Science Project (Advanced) EOS	O O O B-description O B-coursename I-coursename I-coursename I-coursename units
+BOS What's the course code of Big Data and Data Diversity EOS	O O O B-courseCode I-courseCode O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS What's the course name of Big Data and Data Diversity EOS	O O O B-courseName I-courseName O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS What's the level of Big Data and Data Diversity EOS	O O O B-level O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS What's the faculty of Big Data and Data Diversity EOS	O O O B-faculty O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS What's the tutors of Big Data and Data Diversity EOS	O O O B-tutors O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS What's the session of Big Data and Data Diversity EOS	O O O B-session O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS What's the campus of Big Data and Data Diversity EOS	O O O B-campus O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS What's the prerequisites of Big Data and Data Diversity EOS	O O O B-prerequisites O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS What's the prohibitions of Big Data and Data Diversity EOS	O O O B-prohibitions O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS What's the description of Big Data and Data Diversity EOS	O O O B-description O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS What's the course code of Big Data and Data Diversity (Advanced) EOS	O O O B-courseCode I-courseCode O B-coursename I-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS What's the course name of Big Data and Data Diversity (Advanced) EOS	O O O B-courseName I-courseName O B-coursename I-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS What's the level of Big Data and Data Diversity (Advanced) EOS	O O O B-level O B-coursename I-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS What's the faculty of Big Data and Data Diversity (Advanced) EOS	O O O B-faculty O B-coursename I-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS What's the tutors of Big Data and Data Diversity (Advanced) EOS	O O O B-tutors O B-coursename I-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS What's the session of Big Data and Data Diversity (Advanced) EOS	O O O B-session O B-coursename I-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS What's the campus of Big Data and Data Diversity (Advanced) EOS	O O O B-campus O B-coursename I-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS What's the prerequisites of Big Data and Data Diversity (Advanced) EOS	O O O B-prerequisites O B-coursename I-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS What's the prohibitions of Big Data and Data Diversity (Advanced) EOS	O O O B-prohibitions O B-coursename I-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS What's the description of Big Data and Data Diversity (Advanced) EOS	O O O B-description O B-coursename I-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS What's the course code of Data Science Platforms EOS	O O O B-courseCode I-courseCode O B-coursename I-coursename I-coursename units
+BOS What's the course name of Data Science Platforms EOS	O O O B-courseName I-courseName O B-coursename I-coursename I-coursename units
+BOS What's the level of Data Science Platforms EOS	O O O B-level O B-coursename I-coursename I-coursename units
+BOS What's the faculty of Data Science Platforms EOS	O O O B-faculty O B-coursename I-coursename I-coursename units
+BOS What's the tutors of Data Science Platforms EOS	O O O B-tutors O B-coursename I-coursename I-coursename units
+BOS What's the session of Data Science Platforms EOS	O O O B-session O B-coursename I-coursename I-coursename units
+BOS What's the campus of Data Science Platforms EOS	O O O B-campus O B-coursename I-coursename I-coursename units
+BOS What's the prerequisites of Data Science Platforms EOS	O O O B-prerequisites O B-coursename I-coursename I-coursename units
+BOS What's the prohibitions of Data Science Platforms EOS	O O O B-prohibitions O B-coursename I-coursename I-coursename units
+BOS What's the description of Data Science Platforms EOS	O O O B-description O B-coursename I-coursename I-coursename units
+BOS What's the course code of Introduction to Health Data Science EOS	O O O B-courseCode I-courseCode O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS What's the course name of Introduction to Health Data Science EOS	O O O B-courseName I-courseName O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS What's the level of Introduction to Health Data Science EOS	O O O B-level O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS What's the faculty of Introduction to Health Data Science EOS	O O O B-faculty O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS What's the tutors of Introduction to Health Data Science EOS	O O O B-tutors O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS What's the session of Introduction to Health Data Science EOS	O O O B-session O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS What's the campus of Introduction to Health Data Science EOS	O O O B-campus O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS What's the prerequisites of Introduction to Health Data Science EOS	O O O B-prerequisites O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS What's the prohibitions of Introduction to Health Data Science EOS	O O O B-prohibitions O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS What's the description of Introduction to Health Data Science EOS	O O O B-description O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS What's the course code of Human-Computer Interaction EOS	O O O B-courseCode I-courseCode O B-coursename I-coursename units
+BOS What's the course name of Human-Computer Interaction EOS	O O O B-courseName I-courseName O B-coursename I-coursename units
+BOS What's the level of Human-Computer Interaction EOS	O O O B-level O B-coursename I-coursename units
+BOS What's the faculty of Human-Computer Interaction EOS	O O O B-faculty O B-coursename I-coursename units
+BOS What's the tutors of Human-Computer Interaction EOS	O O O B-tutors O B-coursename I-coursename units
+BOS What's the session of Human-Computer Interaction EOS	O O O B-session O B-coursename I-coursename units
+BOS What's the campus of Human-Computer Interaction EOS	O O O B-campus O B-coursename I-coursename units
+BOS What's the prerequisites of Human-Computer Interaction EOS	O O O B-prerequisites O B-coursename I-coursename units
+BOS What's the prohibitions of Human-Computer Interaction EOS	O O O B-prohibitions O B-coursename I-coursename units
+BOS What's the description of Human-Computer Interaction EOS	O O O B-description O B-coursename I-coursename units
+BOS What's the course code of Principles of Security and Security Engineering EOS	O O O B-courseCode I-courseCode O B-coursename I-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS What's the course name of Principles of Security and Security Engineering EOS	O O O B-courseName I-courseName O B-coursename I-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS What's the level of Principles of Security and Security Engineering EOS	O O O B-level O B-coursename I-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS What's the faculty of Principles of Security and Security Engineering EOS	O O O B-faculty O B-coursename I-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS What's the tutors of Principles of Security and Security Engineering EOS	O O O B-tutors O B-coursename I-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS What's the session of Principles of Security and Security Engineering EOS	O O O B-session O B-coursename I-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS What's the campus of Principles of Security and Security Engineering EOS	O O O B-campus O B-coursename I-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS What's the prerequisites of Principles of Security and Security Engineering EOS	O O O B-prerequisites O B-coursename I-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS What's the prohibitions of Principles of Security and Security Engineering EOS	O O O B-prohibitions O B-coursename I-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS What's the description of Principles of Security and Security Engineering EOS	O O O B-description O B-coursename I-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS What's the course code of Analysis & Design of Web Information Systems EOS	O O O B-courseCode I-courseCode O B-coursename I-coursename I-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS What's the course name of Analysis & Design of Web Information Systems EOS	O O O B-courseName I-courseName O B-coursename I-coursename I-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS What's the level of Analysis & Design of Web Information Systems EOS	O O O B-level O B-coursename I-coursename I-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS What's the faculty of Analysis & Design of Web Information Systems EOS	O O O B-faculty O B-coursename I-coursename I-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS What's the tutors of Analysis & Design of Web Information Systems EOS	O O O B-tutors O B-coursename I-coursename I-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS What's the session of Analysis & Design of Web Information Systems EOS	O O O B-session O B-coursename I-coursename I-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS What's the campus of Analysis & Design of Web Information Systems EOS	O O O B-campus O B-coursename I-coursename I-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS What's the prerequisites of Analysis & Design of Web Information Systems EOS	O O O B-prerequisites O B-coursename I-coursename I-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS What's the prohibitions of Analysis & Design of Web Information Systems EOS	O O O B-prohibitions O B-coursename I-coursename I-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS What's the description of Analysis & Design of Web Information Systems EOS	O O O B-description O B-coursename I-coursename I-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS What's the course code of Information Systems in the Internet Age EOS	O O O B-courseCode I-courseCode O B-coursename I-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS What's the course name of Information Systems in the Internet Age EOS	O O O B-courseName I-courseName O B-coursename I-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS What's the level of Information Systems in the Internet Age EOS	O O O B-level O B-coursename I-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS What's the faculty of Information Systems in the Internet Age EOS	O O O B-faculty O B-coursename I-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS What's the tutors of Information Systems in the Internet Age EOS	O O O B-tutors O B-coursename I-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS What's the session of Information Systems in the Internet Age EOS	O O O B-session O B-coursename I-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS What's the campus of Information Systems in the Internet Age EOS	O O O B-campus O B-coursename I-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS What's the prerequisites of Information Systems in the Internet Age EOS	O O O B-prerequisites O B-coursename I-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS What's the prohibitions of Information Systems in the Internet Age EOS	O O O B-prohibitions O B-coursename I-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS What's the description of Information Systems in the Internet Age EOS	O O O B-description O B-coursename I-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS What's the course code of Information Technology Evaluation EOS	O O O B-courseCode I-courseCode O B-coursename I-coursename I-coursename units
+BOS What's the course name of Information Technology Evaluation EOS	O O O B-courseName I-courseName O B-coursename I-coursename I-coursename units
+BOS What's the level of Information Technology Evaluation EOS	O O O B-level O B-coursename I-coursename I-coursename units
+BOS What's the faculty of Information Technology Evaluation EOS	O O O B-faculty O B-coursename I-coursename I-coursename units
+BOS What's the tutors of Information Technology Evaluation EOS	O O O B-tutors O B-coursename I-coursename I-coursename units
+BOS What's the session of Information Technology Evaluation EOS	O O O B-session O B-coursename I-coursename I-coursename units
+BOS What's the campus of Information Technology Evaluation EOS	O O O B-campus O B-coursename I-coursename I-coursename units
+BOS What's the prerequisites of Information Technology Evaluation EOS	O O O B-prerequisites O B-coursename I-coursename I-coursename units
+BOS What's the prohibitions of Information Technology Evaluation EOS	O O O B-prohibitions O B-coursename I-coursename I-coursename units
+BOS What's the description of Information Technology Evaluation EOS	O O O B-description O B-coursename I-coursename I-coursename units
+BOS What's the course code of Decision Analytics & Support Systems EOS	O O O B-courseCode I-courseCode O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS What's the course name of Decision Analytics & Support Systems EOS	O O O B-courseName I-courseName O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS What's the level of Decision Analytics & Support Systems EOS	O O O B-level O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS What's the faculty of Decision Analytics & Support Systems EOS	O O O B-faculty O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS What's the tutors of Decision Analytics & Support Systems EOS	O O O B-tutors O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS What's the session of Decision Analytics & Support Systems EOS	O O O B-session O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS What's the campus of Decision Analytics & Support Systems EOS	O O O B-campus O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS What's the prerequisites of Decision Analytics & Support Systems EOS	O O O B-prerequisites O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS What's the prohibitions of Decision Analytics & Support Systems EOS	O O O B-prohibitions O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS What's the description of Decision Analytics & Support Systems EOS	O O O B-description O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS What's the course code of Information Systems Project EOS	O O O B-courseCode I-courseCode O B-coursename I-coursename I-coursename units
+BOS What's the course name of Information Systems Project EOS	O O O B-courseName I-courseName O B-coursename I-coursename I-coursename units
+BOS What's the level of Information Systems Project EOS	O O O B-level O B-coursename I-coursename I-coursename units
+BOS What's the faculty of Information Systems Project EOS	O O O B-faculty O B-coursename I-coursename I-coursename units
+BOS What's the tutors of Information Systems Project EOS	O O O B-tutors O B-coursename I-coursename I-coursename units
+BOS What's the session of Information Systems Project EOS	O O O B-session O B-coursename I-coursename I-coursename units
+BOS What's the campus of Information Systems Project EOS	O O O B-campus O B-coursename I-coursename I-coursename units
+BOS What's the prerequisites of Information Systems Project EOS	O O O B-prerequisites O B-coursename I-coursename I-coursename units
+BOS What's the prohibitions of Information Systems Project EOS	O O O B-prohibitions O B-coursename I-coursename I-coursename units
+BOS What's the description of Information Systems Project EOS	O O O B-description O B-coursename I-coursename I-coursename units
+BOS What's the course code of Software Construction and Design 1 EOS	O O O B-courseCode I-courseCode O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS What's the course name of Software Construction and Design 1 EOS	O O O B-courseName I-courseName O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS What's the level of Software Construction and Design 1 EOS	O O O B-level O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS What's the faculty of Software Construction and Design 1 EOS	O O O B-faculty O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS What's the tutors of Software Construction and Design 1 EOS	O O O B-tutors O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS What's the session of Software Construction and Design 1 EOS	O O O B-session O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS What's the campus of Software Construction and Design 1 EOS	O O O B-campus O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS What's the prerequisites of Software Construction and Design 1 EOS	O O O B-prerequisites O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS What's the prohibitions of Software Construction and Design 1 EOS	O O O B-prohibitions O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS What's the description of Software Construction and Design 1 EOS	O O O B-description O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS What's the course code of Software Construction and Design 2 EOS	O O O B-courseCode I-courseCode O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS What's the course name of Software Construction and Design 2 EOS	O O O B-courseName I-courseName O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS What's the level of Software Construction and Design 2 EOS	O O O B-level O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS What's the faculty of Software Construction and Design 2 EOS	O O O B-faculty O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS What's the tutors of Software Construction and Design 2 EOS	O O O B-tutors O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS What's the session of Software Construction and Design 2 EOS	O O O B-session O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS What's the campus of Software Construction and Design 2 EOS	O O O B-campus O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS What's the prerequisites of Software Construction and Design 2 EOS	O O O B-prerequisites O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS What's the prohibitions of Software Construction and Design 2 EOS	O O O B-prohibitions O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS What's the description of Software Construction and Design 2 EOS	O O O B-description O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS What's the course code of Concurrency for Software Development EOS	O O O B-courseCode I-courseCode O B-coursename I-coursename I-coursename I-coursename units
+BOS What's the course name of Concurrency for Software Development EOS	O O O B-courseName I-courseName O B-coursename I-coursename I-coursename I-coursename units
+BOS What's the level of Concurrency for Software Development EOS	O O O B-level O B-coursename I-coursename I-coursename I-coursename units
+BOS What's the faculty of Concurrency for Software Development EOS	O O O B-faculty O B-coursename I-coursename I-coursename I-coursename units
+BOS What's the tutors of Concurrency for Software Development EOS	O O O B-tutors O B-coursename I-coursename I-coursename I-coursename units
+BOS What's the session of Concurrency for Software Development EOS	O O O B-session O B-coursename I-coursename I-coursename I-coursename units
+BOS What's the campus of Concurrency for Software Development EOS	O O O B-campus O B-coursename I-coursename I-coursename I-coursename units
+BOS What's the prerequisites of Concurrency for Software Development EOS	O O O B-prerequisites O B-coursename I-coursename I-coursename I-coursename units
+BOS What's the prohibitions of Concurrency for Software Development EOS	O O O B-prohibitions O B-coursename I-coursename I-coursename I-coursename units
+BOS What's the description of Concurrency for Software Development EOS	O O O B-description O B-coursename I-coursename I-coursename I-coursename units
+BOS What's the course code of Software Development Project EOS	O O O B-courseCode I-courseCode O B-coursename I-coursename I-coursename units
+BOS What's the course name of Software Development Project EOS	O O O B-courseName I-courseName O B-coursename I-coursename I-coursename units
+BOS What's the level of Software Development Project EOS	O O O B-level O B-coursename I-coursename I-coursename units
+BOS What's the faculty of Software Development Project EOS	O O O B-faculty O B-coursename I-coursename I-coursename units
+BOS What's the tutors of Software Development Project EOS	O O O B-tutors O B-coursename I-coursename I-coursename units
+BOS What's the session of Software Development Project EOS	O O O B-session O B-coursename I-coursename I-coursename units
+BOS What's the campus of Software Development Project EOS	O O O B-campus O B-coursename I-coursename I-coursename units
+BOS What's the prerequisites of Software Development Project EOS	O O O B-prerequisites O B-coursename I-coursename I-coursename units
+BOS What's the prohibitions of Software Development Project EOS	O O O B-prohibitions O B-coursename I-coursename I-coursename units
+BOS What's the description of Software Development Project EOS	O O O B-description O B-coursename I-coursename I-coursename units
+BOS What's the course code of Data Structures & Algorithms EOS	O O O B-courseCode I-courseCode O B-coursename I-coursename I-coursename I-coursename units
+BOS What's the course name of Data Structures & Algorithms EOS	O O O B-courseName I-courseName O B-coursename I-coursename I-coursename I-coursename units
+BOS What's the level of Data Structures & Algorithms EOS	O O O B-level O B-coursename I-coursename I-coursename I-coursename units
+BOS What's the faculty of Data Structures & Algorithms EOS	O O O B-faculty O B-coursename I-coursename I-coursename I-coursename units
+BOS What's the tutors of Data Structures & Algorithms EOS	O O O B-tutors O B-coursename I-coursename I-coursename I-coursename units
+BOS What's the session of Data Structures & Algorithms EOS	O O O B-session O B-coursename I-coursename I-coursename I-coursename units
+BOS What's the campus of Data Structures & Algorithms EOS	O O O B-campus O B-coursename I-coursename I-coursename I-coursename units
+BOS What's the prerequisites of Data Structures & Algorithms EOS	O O O B-prerequisites O B-coursename I-coursename I-coursename I-coursename units
+BOS What's the prohibitions of Data Structures & Algorithms EOS	O O O B-prohibitions O B-coursename I-coursename I-coursename I-coursename units
+BOS What's the description of Data Structures & Algorithms EOS	O O O B-description O B-coursename I-coursename I-coursename I-coursename units
+BOS What's the course code of Computing 2 Usability and Security EOS	O O O B-courseCode I-courseCode O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS What's the course name of Computing 2 Usability and Security EOS	O O O B-courseName I-courseName O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS What's the level of Computing 2 Usability and Security EOS	O O O B-level O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS What's the faculty of Computing 2 Usability and Security EOS	O O O B-faculty O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS What's the tutors of Computing 2 Usability and Security EOS	O O O B-tutors O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS What's the session of Computing 2 Usability and Security EOS	O O O B-session O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS What's the campus of Computing 2 Usability and Security EOS	O O O B-campus O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS What's the prerequisites of Computing 2 Usability and Security EOS	O O O B-prerequisites O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS What's the prohibitions of Computing 2 Usability and Security EOS	O O O B-prohibitions O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS What's the description of Computing 2 Usability and Security EOS	O O O B-description O B-coursename I-coursename I-coursename I-coursename I-coursename units
+BOS What's the course code of Data & Information Management EOS	O O O B-courseCode I-courseCode O B-coursename I-coursename I-coursename I-coursename units
+BOS What's the course name of Data & Information Management EOS	O O O B-courseName I-courseName O B-coursename I-coursename I-coursename I-coursename units
+BOS What's the level of Data & Information Management EOS	O O O B-level O B-coursename I-coursename I-coursename I-coursename units
+BOS What's the faculty of Data & Information Management EOS	O O O B-faculty O B-coursename I-coursename I-coursename I-coursename units
+BOS What's the tutors of Data & Information Management EOS	O O O B-tutors O B-coursename I-coursename I-coursename I-coursename units
+BOS What's the session of Data & Information Management EOS	O O O B-session O B-coursename I-coursename I-coursename I-coursename units
+BOS What's the campus of Data & Information Management EOS	O O O B-campus O B-coursename I-coursename I-coursename I-coursename units
+BOS What's the prerequisites of Data & Information Management EOS	O O O B-prerequisites O B-coursename I-coursename I-coursename I-coursename units
+BOS What's the prohibitions of Data & Information Management EOS	O O O B-prohibitions O B-coursename I-coursename I-coursename I-coursename units
+BOS What's the description of Data & Information Management EOS	O O O B-description O B-coursename I-coursename I-coursename I-coursename units
+BOS What's the course code of Agile Software Development Practices EOS	O O O B-courseCode I-courseCode O B-coursename I-coursename I-coursename I-coursename units
+BOS What's the course name of Agile Software Development Practices EOS	O O O B-courseName I-courseName O B-coursename I-coursename I-coursename I-coursename units
+BOS What's the level of Agile Software Development Practices EOS	O O O B-level O B-coursename I-coursename I-coursename I-coursename units
+BOS What's the faculty of Agile Software Development Practices EOS	O O O B-faculty O B-coursename I-coursename I-coursename I-coursename units
+BOS What's the tutors of Agile Software Development Practices EOS	O O O B-tutors O B-coursename I-coursename I-coursename I-coursename units
+BOS What's the session of Agile Software Development Practices EOS	O O O B-session O B-coursename I-coursename I-coursename I-coursename units
+BOS What's the campus of Agile Software Development Practices EOS	O O O B-campus O B-coursename I-coursename I-coursename I-coursename units
+BOS What's the prerequisites of Agile Software Development Practices EOS	O O O B-prerequisites O B-coursename I-coursename I-coursename I-coursename units
+BOS What's the prohibitions of Agile Software Development Practices EOS	O O O B-prohibitions O B-coursename I-coursename I-coursename I-coursename units
+BOS What's the description of Agile Software Development Practices EOS	O O O B-description O B-coursename I-coursename I-coursename I-coursename units
+BOS What's the course code of Computing 3 Management EOS	O O O B-courseCode I-courseCode O B-coursename I-coursename I-coursename units
+BOS What's the course name of Computing 3 Management EOS	O O O B-courseName I-courseName O B-coursename I-coursename I-coursename units
+BOS What's the level of Computing 3 Management EOS	O O O B-level O B-coursename I-coursename I-coursename units
+BOS What's the faculty of Computing 3 Management EOS	O O O B-faculty O B-coursename I-coursename I-coursename units
+BOS What's the tutors of Computing 3 Management EOS	O O O B-tutors O B-coursename I-coursename I-coursename units
+BOS What's the session of Computing 3 Management EOS	O O O B-session O B-coursename I-coursename I-coursename units
+BOS What's the campus of Computing 3 Management EOS	O O O B-campus O B-coursename I-coursename I-coursename units
+BOS What's the prerequisites of Computing 3 Management EOS	O O O B-prerequisites O B-coursename I-coursename I-coursename units
+BOS What's the prohibitions of Computing 3 Management EOS	O O O B-prohibitions O B-coursename I-coursename I-coursename units
+BOS What's the description of Computing 3 Management EOS	O O O B-description O B-coursename I-coursename I-coursename units
+BOS What's the course code of Computing 4 Innovation EOS	O O O B-courseCode I-courseCode O B-coursename I-coursename I-coursename units
+BOS What's the course name of Computing 4 Innovation EOS	O O O B-courseName I-courseName O B-coursename I-coursename I-coursename units
+BOS What's the level of Computing 4 Innovation EOS	O O O B-level O B-coursename I-coursename I-coursename units
+BOS What's the faculty of Computing 4 Innovation EOS	O O O B-faculty O B-coursename I-coursename I-coursename units
+BOS What's the tutors of Computing 4 Innovation EOS	O O O B-tutors O B-coursename I-coursename I-coursename units
+BOS What's the session of Computing 4 Innovation EOS	O O O B-session O B-coursename I-coursename I-coursename units
+BOS What's the campus of Computing 4 Innovation EOS	O O O B-campus O B-coursename I-coursename I-coursename units
+BOS What's the prerequisites of Computing 4 Innovation EOS	O O O B-prerequisites O B-coursename I-coursename I-coursename units
+BOS What's the prohibitions of Computing 4 Innovation EOS	O O O B-prohibitions O B-coursename I-coursename I-coursename units
+BOS What's the description of Computing 4 Innovation EOS	O O O B-description O B-coursename I-coursename I-coursename units
+BOS Which campus is Introduction to Programming in EOS	O O B-campus O B-coursename I-coursename I-coursename O units
+BOS Which campus is Computing 1A Professionalism in EOS	O O B-campus O B-coursename I-coursename I-coursename O units
+BOS Which campus is Computing 1B OS & Network Platforms in EOS	O O B-campus O B-coursename I-coursename I-coursename I-coursename I-coursename I-coursename O units
+BOS Which campus is Introduction to Computer Systems  in EOS	O O B-campus O B-coursename I-coursename I-coursename I-coursename I-coursename O units
+BOS Which campus is Object-Oriented Programming in EOS	O O B-campus O B-coursename I-coursename O units
+BOS Which campus is Systems Programming in EOS	O O B-campus O B-coursename I-coursename O units
+BOS Which campus is Programming Languages, Logic and Models in EOS	O O B-campus O B-coursename I-coursename I-coursename I-coursename I-coursename O units
+BOS Which campus is Programming Languages, Logic and Models (Adv) in EOS	O O B-campus O B-coursename I-coursename I-coursename I-coursename I-coursename I-coursename O units
+BOS Which campus is Algorithm Design in EOS	O O B-campus O B-coursename I-coursename O units
+BOS Which campus is Programming Languages and Paradigms in EOS	O O B-campus O B-coursename I-coursename I-coursename I-coursename O units
+BOS Which campus is Distributed Systems in EOS	O O B-campus O B-coursename I-coursename O units
+BOS Which campus is Introduction to Artificial Intelligence in EOS	O O B-campus O B-coursename I-coursename I-coursename I-coursename O units
+BOS Which campus is Graphics and Multimedia in EOS	O O B-campus O B-coursename I-coursename I-coursename O units
+BOS Which campus is Operating Systems Internals in EOS	O O B-campus O B-coursename I-coursename I-coursename O units
+BOS Which campus is Introduction to Artificial Intelligence (Adv) in EOS	O O B-campus O B-coursename I-coursename I-coursename I-coursename I-coursename O units
+BOS Which campus is Computer Science Project in EOS	O O B-campus O B-coursename I-coursename I-coursename O units
+BOS Which campus is Algorithm Design (Adv) in EOS	O O B-campus O B-coursename I-coursename I-coursename O units
+BOS Which campus is Computer Science Project (Advanced) in EOS	O O B-campus O B-coursename I-coursename I-coursename I-coursename O units
+BOS Which campus is Big Data and Data Diversity in EOS	O O B-campus O B-coursename I-coursename I-coursename I-coursename I-coursename O units
+BOS Which campus is Big Data and Data Diversity (Advanced) in EOS	O O B-campus O B-coursename I-coursename I-coursename I-coursename I-coursename I-coursename O units
+BOS Which campus is Data Science Platforms in EOS	O O B-campus O B-coursename I-coursename I-coursename O units
+BOS Which campus is Introduction to Health Data Science in EOS	O O B-campus O B-coursename I-coursename I-coursename I-coursename I-coursename O units
+BOS Which campus is Human-Computer Interaction in EOS	O O B-campus O B-coursename I-coursename O units
+BOS Which campus is Principles of Security and Security Engineering in EOS	O O B-campus O B-coursename I-coursename I-coursename I-coursename I-coursename I-coursename O units
+BOS Which campus is Analysis & Design of Web Information Systems in EOS	O O B-campus O B-coursename I-coursename I-coursename I-coursename I-coursename I-coursename I-coursename O units
+BOS Which campus is Information Systems in the Internet Age in EOS	O O B-campus O B-coursename I-coursename I-coursename I-coursename I-coursename I-coursename O units
+BOS Which campus is Information Technology Evaluation in EOS	O O B-campus O B-coursename I-coursename I-coursename O units
+BOS Which campus is Decision Analytics & Support Systems in EOS	O O B-campus O B-coursename I-coursename I-coursename I-coursename I-coursename O units
+BOS Which campus is Information Systems Project in EOS	O O B-campus O B-coursename I-coursename I-coursename O units
+BOS Which campus is Software Construction and Design 1 in EOS	O O B-campus O B-coursename I-coursename I-coursename I-coursename I-coursename O units
+BOS Which campus is Software Construction and Design 2 in EOS	O O B-campus O B-coursename I-coursename I-coursename I-coursename I-coursename O units
+BOS Which campus is Concurrency for Software Development in EOS	O O B-campus O B-coursename I-coursename I-coursename I-coursename O units
+BOS Which campus is Software Development Project in EOS	O O B-campus O B-coursename I-coursename I-coursename O units
+BOS Which campus is Data Structures & Algorithms in EOS	O O B-campus O B-coursename I-coursename I-coursename I-coursename O units
+BOS Which campus is Computing 2 Usability and Security in EOS	O O B-campus O B-coursename I-coursename I-coursename I-coursename I-coursename O units
+BOS Which campus is Data & Information Management in EOS	O O B-campus O B-coursename I-coursename I-coursename I-coursename O units
+BOS Which campus is Agile Software Development Practices in EOS	O O B-campus O B-coursename I-coursename I-coursename I-coursename O units
+BOS Which campus is Computing 3 Management in EOS	O O B-campus O B-coursename I-coursename I-coursename O units
+BOS Which campus is Computing 4 Innovation in EOS	O O B-campus O B-coursename I-coursename I-coursename O units

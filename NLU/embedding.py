@@ -1,6 +1,6 @@
 import numpy as np
 from gensim.models import KeyedVectors
-from week9 import constants
+from NLU import constants
 
 class Word_embedding_Model:
 

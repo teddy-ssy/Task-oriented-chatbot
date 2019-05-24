@@ -1,11 +1,11 @@
 import tensorflow as tf
-from week9.metrics import *
-from week9.model import Model
+from NLU.metrics import *
+from NLU.model import Model
 from tensorflow.python import debug as tf_debug
 import numpy as np
-from week9.pipeline import *
-from week9.fileutil import *
-from week9 import constants
+from NLU.pipeline import *
+from NLU.fileutil import *
+from NLU import constants
 
 
 input_steps =constants.intent_size
@@ -33,7 +33,7 @@ def train(is_debug=False):
 
     train_data = open(constants.taining_data_path, "r").readlines()
     test_data = open(constants.taining_data_path, "r").readlines()
-    #test_data = open("/Users/sunshengyuan/PycharmProjects/capstone/week9/data/trainSamples.iob","r").readlines()
+    #test_data = open("/Users/sunshengyuan/PycharmProjects/capstone/NLU/data/trainSamples.iob","r").readlines()
 
     train_data_ed = data_pipeline(train_data)
     test_data_ed = data_pipeline(test_data)

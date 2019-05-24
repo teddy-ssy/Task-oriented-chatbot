@@ -1,4 +1,5 @@
 import csv
+from NLU.constants import *
 
 def csv2dictionary(filename):
     with open(filename, newline='') as csvfile:
@@ -80,7 +81,7 @@ def test():
     test10 = "what textbook dose computing 1a professionalism recommend"
     test11 = "when is the due time of quiz in introduction to computer systems"
 
-    filename = "/Users/sunshengyuan/PycharmProjects/capstone/week9/data/Entities.csv"
+    filename = entiry_dict_path
     dict = csv2dictionary(filename)
     #print(dict)
 
@@ -88,4 +89,4 @@ def test():
     print(sentence)
     print(slot)
 
-#test()
+test()

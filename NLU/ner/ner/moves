@@ -1,0 +1,32 @@
+Å´transitions⁄ö[
+  {
+    "clas":0,
+    "move":1,
+    "label":"unitname",
+    "name":"B-unitname"
+  },
+  {
+    "clas":1,
+    "move":2,
+    "label":"unitname",
+    "name":"I-unitname"
+  },
+  {
+    "clas":2,
+    "move":3,
+    "label":"unitname",
+    "name":"L-unitname"
+  },
+  {
+    "clas":3,
+    "move":4,
+    "label":"unitname",
+    "name":"U-unitname"
+  },
+  {
+    "clas":4,
+    "move":5,
+    "label":"",
+    "name":"O"
+  }
+]

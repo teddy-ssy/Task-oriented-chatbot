@@ -1,6 +1,6 @@
-from week9.embedding import Word_embedding_Model
+from NLU.embedding import Word_embedding_Model
 import random
-from week9 import constants
+from NLU import constants
 
 flatten = lambda l: [item for sublist in l for item in sublist]  # 二维展成一维
 index_seq2slot = lambda s, index2slot: [index2slot[i] for i in s]
@@ -166,7 +166,7 @@ def get_info_from_data(data):
 
 def test():
     train_data = open(constants.taining_data_path,"r").readlines()
-    # train_data = open("/Users/sunshengyuan/PycharmProjects/capstone/week9/data/trainSamples.iob", "r").readlines()
+    # train_data = open("/Users/sunshengyuan/PycharmProjects/capstone/NLU/data/trainSamples.iob", "r").readlines()
     train_data_ed = data_pipeline(train_data)
     word2index, index2word, slot2index, index2slot, intent2index, index2intent = get_info_from_data(train_data_ed)
     print(word2index)

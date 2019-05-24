@@ -1,14 +1,14 @@
-word2vector_path = "/Users/sunshengyuan/PycharmProjects/capstone/week9/wiki-news-300d-1M-subword.vec"
+word2vector_path = "wiki-news-300d-1M-subword.vec"
 
-index_path="/Users/sunshengyuan/PycharmProjects/capstone/week9/index/"
+index_path="index/"
 
 model_save_path='save/model.ckpt'
 
-ner_model_path="/Users/sunshengyuan/PycharmProjects/capstone/week9/ner/"
+ner_model_path="ner/"
 
-taining_data_path= "/Users/sunshengyuan/PycharmProjects/capstone/week9/data/final_raw_question_v3.iob"
+taining_data_path= "data/final_raw_question_v3.iob"
 
-entiry_dict_path="/Users/sunshengyuan/PycharmProjects/capstone/week9/data/Entities.csv"
+entiry_dict_path="data/Entities.csv"
 
 input_steps = 50
 word_vector_length=300

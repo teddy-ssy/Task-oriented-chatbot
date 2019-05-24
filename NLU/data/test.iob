@@ -1,0 +1,3 @@
+BOS the course code of Introduction to Programming EOS	O O B-courseCode I-courseCode O B-coursename I-coursename I-coursename units
+BOS what's the course name of Introduction to Artificial Intelligence EOS	O O O B-courseName I-courseName O B-coursename I-coursename I-coursename I-coursename units
+BOS which level dose Graphics and Multimedia in EOS	O O B-level O B-coursename I-coursename I-coursename O units

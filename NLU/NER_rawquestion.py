@@ -1,9 +1,9 @@
-from week9.string_matching import *
+from NLU.string_matching import *
 import random
 from pathlib import Path
 import spacy
 from spacy.util import minibatch, compounding
-from week9 import constants
+from NLU import constants
 
 
 class NER():

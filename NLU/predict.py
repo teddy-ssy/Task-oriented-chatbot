@@ -1,13 +1,13 @@
 import tensorflow as tf
 
 
-from week9.model import Model
+from NLU.model import Model
 import numpy as np
-from week9.preprocessing import *
-from week9.fileutil import *
-from week9.string_matching import *
-from week9 import constants
-from week9 import NER_rawquestion
+from NLU.preprocessing import *
+from NLU.fileutil import *
+from NLU.string_matching import *
+from NLU import constants
+from NLU import NER_rawquestion
 
 index_seq2slot = lambda s, index2slot: [index2slot[str(i)] for i in s]
 import os

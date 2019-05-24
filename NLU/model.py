@@ -2,8 +2,8 @@ import tensorflow as tf
 import numpy as np
 from tensorflow.contrib.rnn import LSTMCell, LSTMStateTuple,DropoutWrapper
 import sys
-from week9.fileutil import *
-from week9 import constants
+from NLU.fileutil import *
+from NLU import constants
 
 class Model:
     def __init__(self, input_steps,  hidden_size, vocab_size, slot_size,
